@@ -1,0 +1,8 @@
+langgraph
+langchain
+typing 
+pydantic
+dotenv
+groq
+langchain_groq
+streamlit
