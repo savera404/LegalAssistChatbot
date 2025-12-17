@@ -6,3 +6,6 @@ dotenv
 groq
 langchain_groq
 streamlit
+fastapi 
+uvicorn 
+python-multipart
