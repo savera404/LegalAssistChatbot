@@ -1,53 +1,5 @@
-// import "../styles/chat.css";
-
-// export default function ChatArea() {
-//   return (
-//     <div className="chat-area">
-//       <h1>
-//         Welcome! I am <span>Adil AI</span>. How may I help you?
-//       </h1>
-
-//       <input
-//         className="chat-input"
-//         placeholder="Start Chat"
-//       />
-//     </div>
-//   );
-// }
-
-// import "../styles/chat.css";
-
-// export default function ChatArea({
-//   messages,
-//   input,
-//   setInput,
-//   onSend
-// }) {
-//   return (
-//     <div className="chat-area">
-//       <div className="messages">
-//         {messages.map((msg, idx) => (
-//           <div key={idx} className={`bubble ${msg.role}`}>
-//             {msg.content}
-//           </div>
-//         ))}
-//       </div>
-
-//       <div className="input-area">
-//         <input
-//           value={input}
-//           onChange={e => setInput(e.target.value)}
-//           placeholder="Type your question..."
-//           onKeyDown={e => e.key === "Enter" && onSend()}
-//         />
-//         <button onClick={onSend}>Send</button>
-//       </div>
-//     </div>
-//   );
-// }
-
-// components/ChatArea.js
-// components/ChatArea.jsx
+import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
 import React, { useState, useEffect, useRef } from 'react';
 import { Send } from 'lucide-react';
 import '../styles/chat.css';
