@@ -9,3 +9,11 @@ streamlit
 fastapi 
 uvicorn 
 python-multipart
+langgraph-checkpoint-mongodb
+motor
+langchain_huggingface 
+langchain_community
+langchain_text_splitters
+pypdf
+sentence-transformers
+faiss-cpu
