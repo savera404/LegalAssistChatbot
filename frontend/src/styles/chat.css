@@ -169,3 +169,31 @@
   width: 1.25rem;
   height: 1.25rem;
 }
+
+.markdown-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 12px 0;
+}
+
+.markdown-content th,
+.markdown-content td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.markdown-content th {
+  background-color: #a67a24;
+  font-weight: 600;
+}
+
+.markdown-content h1,
+.markdown-content h2,
+.markdown-content h3 {
+  margin: 8px 0;
+}
+
+.markdown-content strong {
+  font-weight: 600;
+}

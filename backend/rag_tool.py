@@ -21,7 +21,7 @@ db = FAISS.load_local(
 )
 retriever = db.as_retriever(
     search_type="similarity",
-    search_kwargs={"k": 4}
+    search_kwargs={"k": 5}
 )
 # print(retriever.invoke("Tell me about Muslim marriage laws"))
 #rag tool
