@@ -1,0 +1,29 @@
+**Case Name:**  
+Saeed Alam v. Family Judge Rohri (Constitution Petition No. 2875 of 2012)
+
+**Court:**  
+Sindh High Court
+
+**Year:**  
+2013
+
+**Legal Issue:**  
+Whether a Family Court may decree dissolution of marriage by Khula without restoring dower (Haq Mahr) that was paid after the marriage, and whether the proviso to Section 10(4) of the West Pakistan Family Courts Act, 1964, requires restoration of dower paid at the time of marriage only.
+
+**Relevant Law / Sections:**  
+- West Pakistan Family Courts Act, 1964 – Section 10(4) and its proviso  
+- Muslim Family Law Ordinance, 1961 – Form II, Column 15 (dower at time of marriage)  
+- Constitution of Pakistan – Article 199 (constitutional jurisdiction)
+
+**Key Facts (brief):**  
+1. Petitioner Saeed Alam married respondent Mst. Jamila on 3 Jan 2010, with a deferred dower of Rs 100,000.  
+2. Respondent filed a dissolution suit alleging abuse and claimed the dower had not been paid.  
+3. Petitioner contended that he paid the dower in a FAISLA before witnesses.  
+4. Family Judge Rohri dissolved the marriage on 1 Sep 2012 under Khula, without addressing the dower dispute.  
+5. Petitioner filed a constitutional petition challenging the dissolution order.
+
+**Holding / Decision:**  
+The Sindh High Court held that the proviso to Section 10(4) applies only to dower received at the time of marriage. Since the dower in this case was paid later in a FAISLA, it is not subject to restoration under the proviso. Consequently, the Family Court was not required to restore the dower, and the dissolution decree by Khula was valid.
+
+**Legal Principle Established:**  
+In a dissolution by Khula, the Family Court must restore to the husband the dower received by the wife at the time of marriage; dower paid after the marriage is not covered by the proviso to Section 10(4) and need not be restored. Additionally, when a dispute over dower exists, the Family Court must resolve that dispute before issuing a preliminary decree.

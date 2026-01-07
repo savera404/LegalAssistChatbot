@@ -1,0 +1,32 @@
+**Case Name:**  
+Syed Sajid Abbas Rizvi v Mst. Naureen and Others  
+
+**Court:**  
+Sindh High Court  
+
+**Year:**  
+2013  
+
+**Legal Issue:**  
+Whether the proviso attached to Section 10 of the West Pakistan Family Courts Act, 1964 is unconstitutional, contrary to Shariah and the Constitution, and whether the petitioner’s failure to file a written statement and to comply with Family Court orders warrants dismissal of the Constitutional Petition.  
+
+**Relevant Law / Sections:**  
+- West Pakistan Family Courts Act, 1964 – Section 10 (Pre‑trial proceedings) and its proviso  
+- Constitution of Pakistan – Article 199 (Islamic Law)  
+- Code of Civil Procedure, 1908 – Section 151 (Application for reference to higher court)  
+
+**Key Facts (brief):**  
+- Petition filed by respondents 1‑4 (wife and minor children) for dissolution of marriage (Khula) and maintenance on 30‑04‑2012.  
+- Petitioner (husband) did not file a written statement; ex‑parte order issued 17‑08‑2012.  
+- Petitioner filed multiple applications under Section 151 (21‑11‑2012, 14‑12‑2012) seeking delay and reference to the High Court.  
+- Family Court dismissed these applications on 21‑12‑2012, directing petitioner to file a written statement by 24‑12‑2012.  
+- Petitioner filed the Constitutional Petition on 23‑01‑2013, alleging that the proviso in Section 10 violates Shariah and the Constitution.  
+
+**Holding / Decision:**  
+The Sindh High Court dismissed the Constitutional Petition. It held that:  
+1. The proviso in Section 10 does not render the main provisions of the section unconstitutional or contrary to Shariah.  
+2. The petitioner lacked locus standi to challenge the statutory provision.  
+3. The petitioner’s failure to file a written statement and to comply with the Family Court’s orders justified the ex‑parte order and the dismissal of his applications.  
+
+**Legal Principle Established:**  
+A proviso attached to a statutory section operates as an exception and does not invalidate or render ineffective the substantive provisions of that section; procedural compliance (e.g., filing a written statement) is mandatory, and a petitioner who fails to comply may be denied relief and subject to ex‑parte orders.

@@ -1,0 +1,24 @@
+**Case Name:** Abdul Sattar Applicant v. Ms. Kalsom (Respondent)  
+**Court:** Sindh High Court  
+**Year:** 2006  
+
+**Legal Issue:** Whether a Family Court must decree dissolution of marriage immediately upon failure of pre‑trial proceedings when the dower (haq‑mahr) is undisputed, and what procedure applies when the dower is disputed or when additional reliefs (custody, maintenance, dowry articles) are sought.  
+
+**Relevant Law / Sections:**  
+- West Pakistan Family Courts Act, 1964 – Sections 5, 7(2) (amended), 10(4) (proviso), 12(a), 17  
+- Muslim Marriages Act, 1939 – Section 2  
+- Islamic Law (Khula)  
+- Qanun‑e‑Shahadat Order, 1984 (non‑applicability)  
+- Code of Civil Procedure, 1908 (non‑applicability)  
+
+**Key Facts (brief):**  
+- Respondent filed Family Suit No. 77 of 2005 for dissolution on the ground of Khula.  
+- Pre‑trial proceedings between the parties failed.  
+- The dower issue was not contested; other issues (custody, maintenance, dowry articles) were either not raised or not disputed.  
+- A transfer application was dismissed; the court considered the procedural status of the dissolution suit.  
+
+**Holding / Decision:**  
+The court held that under the proviso to Section 10(4) of the Family Courts Act, a dissolution decree must be passed immediately when pre‑trial fails and the dower is undisputed. If the dower is disputed, a preliminary decree may be issued only if the wife deposits the dower amount in court; otherwise the matter must be decided after evidence. The court may resolve other contested reliefs (custody, maintenance, dowry articles) after the dissolution decree.  
+
+**Legal Principle Established:**  
+In Muslim dissolution suits, a Family Court may issue a preliminary decree of dissolution upon failure of pre‑trial proceedings when the dower is undisputed; disputed dower requires deposit or evidence before a preliminary decree, and other reliefs can be decided subsequent to dissolution.

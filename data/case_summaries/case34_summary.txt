@@ -1,0 +1,23 @@
+**Case Name:** Civil Petition No.2872‑L of 2022 (Naseem Mai v. Malik Muhammad Shah Aalam)  
+**Court:** Supreme Court of Pakistan (Appellate Jurisdiction)  
+**Year:** 2025  
+
+**Legal Issue:** Whether the Supreme Court should grant leave to appeal against the Lahore High Court’s decision that set aside the decree for marriage expenses in the suit for maintenance and future maintenance allowance.  
+
+**Relevant Law / Sections:**  
+- Article 185(3) of the Constitution of Islamic Republic of Pakistan, 1973  
+- Article 199 of the Constitution of Islamic Republic of Pakistan, 1973  
+- Family Courts Act, 1964 – Section 5 read with Schedule‑I  
+
+**Key Facts (brief):**  
+- Petitioners sought Rs.10,000/month maintenance allowance and Rs.2,000,000 for future marriage expenses from respondent No.1.  
+- Trial court granted Rs.5,000/month for past maintenance, Rs.10,000/month thereafter (with 10 % annual increase) and Rs.1,000,000 for marriage expenses.  
+- Appeal against the trial decree was dismissed (13 Sep 2019).  
+- Respondent filed W.P. No.63155 (2019) before Lahore High Court; the High Court partially accepted the judgment, setting aside the marriage‑expense decree.  
+- Petitioners filed the present leave petition under Article 185(3).  
+
+**Holding / Decision:**  
+The Supreme Court refused leave to appeal, dismissing the petition. It held that the claim for future marriage expenses is premature and not maintainable at this stage, affirming the Lahore High Court’s ruling.  
+
+**Legal Principle Established:**  
+Courts may not enforce speculative or future marriage‑expense claims absent concrete evidence of an engagement or imminent marriage; claims must be based on existing rights and actual infringement, not on hypothetical future events.

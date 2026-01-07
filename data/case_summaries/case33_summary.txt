@@ -1,0 +1,28 @@
+**Case Name:**  
+Writ Petition No. 75322 of 2022 – Kaneez Fatima, et al. vs. Senior Civil Judge, etc.
+
+**Court:**  
+Lahore High Court, Judicial Department
+
+**Year:**  
+2024
+
+**Legal Issue:**  
+Whether a court may order a DNA test for paternity of a minor in a civil case without the consent of the parties involved.
+
+**Relevant Law / Sections:**  
+- Articles 9 and 14 of the Constitution of the Islamic Republic of Pakistan (liberty and privacy)  
+- Article 129(g) of the Qanun‑e‑Shahadat Order, 1984 (adverse inference when evidence is withheld)  
+- Supreme Court precedents: *Muhammad Nawaz v. Additional District & Sessions Judge* (PLD 2023 Supreme Court 461), *Mst. Laila Qayyum v. Fawad Qayyum* (PLD 2019 Supreme Court 449), *Salman Akram Raja v. Government of Punjab* (2013 SCMR 203), *Mst. Safia Bibi v. Muhammad Akbar* (PLD 2018 Lahore 758), *Mst. Rubina Kausar v. Additional Sessions Judge* (PLD 2017 Lahore 604).
+
+**Key Facts (brief):**  
+- Petitioners sought a DNA test of minor Umme Mabad (alias Maryam) to establish paternity.  
+- The Senior Civil Judge (Family Division), Hafizabad, directed the DNA test following a prior Lahore High Court direction.  
+- Petitioners challenged the order, arguing that DNA testing requires consent of the parties.  
+- Respondents initially argued for the necessity of DNA testing but later conceded that evidence before the lower court was largely complete.
+
+**Holding / Decision:**  
+The Lahore High Court held that consent of the parties is essential for conducting a DNA test in a civil paternity case. In the absence of consent, the court may draw an adverse inference under Article 129(g) of the Qanun‑e‑Shahadat Order, 1984, and decide the paternity issue based on the evidence presented by the parties.
+
+**Legal Principle Established:**  
+Consent is a prerequisite for DNA testing in civil paternity matters; without consent, a court may infer adverse evidence and resolve the case on the basis of the parties’ submissions.

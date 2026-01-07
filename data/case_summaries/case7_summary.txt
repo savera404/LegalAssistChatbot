@@ -1,0 +1,29 @@
+**Case Name:**  
+MUHAMMAD NADIR KHAN & OTHERS v. GOVERNMENT OF SINDH THROUGH DCO SANGHAR  
+
+**Court:**  
+Sindh High Court  
+
+**Year:**  
+2016  
+
+**Legal Issue:**  
+Whether a grandson (son of a pre‑deceased son) is entitled to inherit under Section 4 of the Muslim Family Laws Ordinance, 1961 when the succession of the deceased opened before the ordinance was promulgated.  
+
+**Relevant Law / Sections:**  
+- Muslim Family Laws Ordinance, 1961 – Section 4  
+- Islamic Sharia (principle of Mahjub‑ul‑Irs)  
+- Supreme Court decisions: *Fazeelat Jan v. Sikandar* (2003) and *Yousuf Abbas v. Asmat Murtaza* (1968)  
+
+**Key Facts (brief):**  
+1. Suleman Khan died in 1960; his heirs were recorded by the Mukhtiarkar.  
+2. Usman Khan (father of respondent Jamil Ahmed) died in 1944; Jamil Ahmed was later entered as an heir by mutation, reducing the shares of Suleman Khan’s surviving children.  
+3. The succession of Suleman Khan’s estate opened in 1960, before the Muslim Family Laws Ordinance, 1961 (effective 15 July 1961).  
+4. Jamil Ahmed filed a suit for declaration and injunction under Section 4, which was rejected under Order 7 Rule 11 CPC.  
+5. The case was appealed and a revision application was filed, raising the issue of retroactive application of Section 4.  
+
+**Holding / Decision:**  
+The Court held that the Muslim Family Laws Ordinance, 1961 is not retrospective; therefore, Section 4 does not apply to a succession that opened in 1960. Consequently, the grandson (Jamil Ahmed) is not entitled to inherit from his grandfather Suleman Khan. The Court remanded the matter to the trial court for disposal on merits, noting that the Supreme Court’s pending decision on the applicability of Section 4 remains suspended under Article 203‑D.  
+
+**Legal Principle Established:**  
+The non‑retrospective nature of the Muslim Family Laws Ordinance, 1961, coupled with the principle of Mahjub‑ul‑Irs, precludes a grandson from inheriting when the succession opened prior to the ordinance’s enactment. The Court emphasized that any change in the law’s effect is subject to the Supreme Court’s final determination.

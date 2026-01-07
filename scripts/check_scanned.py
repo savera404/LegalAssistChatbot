@@ -3,7 +3,7 @@ from langchain_community.document_loaders import PyPDFLoader
 from collections import defaultdict
 
 
-DATA_PATH = r"D:\LegalAssist_chatbot\data"
+DATA_PATH = r"D:\LegalAssist_chatbot\data\cases"
 MIN_TEXT_LENGTH = 200   # threshold
 
 

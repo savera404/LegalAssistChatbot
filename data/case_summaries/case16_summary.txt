@@ -1,0 +1,22 @@
+**Case Name:** Abdul Sattar v. Ms. Kalsoom  
+**Court:** Sindh High Court  
+**Year:** 2006  
+
+**Legal Issue:**  
+Whether a Family Court may issue a decree for dissolution of marriage under the proviso to Section 10(4) of the West Pakistan Family Courts Act, 1964, when pre‑trial proceedings have failed, particularly when the dower (Haq Mahr) is not disputed and when other reliefs (custody, maintenance, dowry articles) are also sought.  
+
+**Relevant Law / Sections:**  
+- West Pakistan Family Courts Act, 1964 – Sections 7(2), 10(4), 12(a), 17  
+- Islamic law on Khula (remission of dower)  
+- Mulkhan Bibi v. Muhammad Wazir Khan (PLD 1959)  
+
+**Key Facts (brief):**  
+1. Respondent filed Family Suit No. 77 of 2005 for dissolution of marriage on the ground of Khula before the 1st Senior Civil Judge, Sukkur.  
+2. A transfer application to move the suit to a Family Court in Naushahro Feroze was dismissed.  
+3. Pre‑trial proceedings between the parties had failed; the dower was not contested; no other issues were raised.  
+
+**Holding / Decision:**  
+The court held that, under the proviso to Section 10(4), a Family Court must decree dissolution of marriage immediately when pre‑trial has failed and the dower is undisputed. If the dower is disputed, a preliminary decree can be issued only if the wife deposits the dower in court; otherwise, no preliminary decree is possible and the matter must be decided after evidence. The court may pass a preliminary decree for dissolution even when other reliefs (custody, maintenance, dowry articles) are sought, provided the dower is not disputed. Gifts other than dower need not be returned.  
+
+**Legal Principle Established:**  
+The proviso to Section 10(4) of the Family Courts Act, 1964 authorises a Family Court to pass a decree for dissolution of marriage upon failure of pre‑trial proceedings when the dower is not disputed; if the dower is disputed, the court must resolve that issue (by deposit or evidence) before issuing a preliminary decree. This principle allows the court to expedite dissolution while ensuring disputed matters are adjudicated subsequently.

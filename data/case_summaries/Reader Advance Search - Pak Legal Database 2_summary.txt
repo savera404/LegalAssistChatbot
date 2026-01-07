@@ -1,0 +1,28 @@
+**Case Name:**  
+MST. NIG HAT AIJAZ (PETITIONER) v. MUHAMMAD JAMEEL (RESPONDENT)
+
+**Court:**  
+Sindh High Court
+
+**Year:**  
+1993
+
+**Legal Issue:**  
+Whether a Family Court may examine the validity of a marriage registered under the Muslim Family Laws Ordinance, 1961, in a suit for jactitation of marriage, and whether Section 23 of the West Pakistan Family Courts Act, 1964 bars such examination.
+
+**Relevant Law / Sections:**  
+- West Pakistan Family Courts Act, 1964 – Section 23 and the Schedule (items including jactitation of marriage)  
+- Muslim Family Laws Ordinance, 1961 (registration provisions)
+
+**Key Facts (brief):**  
+1. Respondent Muhammad Jameel alleges he married petitioner Mst. Nighat Aijaz on 10‑7‑1987, registered under the Ordinance, but petitioner never lived as his wife.  
+2. Respondent filed Suit No. 32/1988 for restitution of conjugal rights; petitioner filed Suit No. 41/1988 for jactitation of marriage.  
+3. Joint Civil Judge, Sukkur, dismissed the restitution suit and decreed the jactitation suit.  
+4. Appeals to the Vth Additional District Judge, Sukkur, reversed both judgments: restitution suit decreed, jactitation suit dismissed.  
+5. Petitioner filed Constitution petitions challenging the appellate judgment.
+
+**Holding / Decision:**  
+The Sindh High Court held that Section 23 does not preclude a Family Court from questioning the validity of a marriage in a suit for jactitation of marriage. The Family Court has exclusive jurisdiction over such matters and may consider evidence of forged or fraudulent Nikahnama.
+
+**Legal Principle Established:**  
+Section 23 of the West Pakistan Family Courts Act, 1964, while preventing Family Courts from questioning the validity of a marriage registered in accordance with the Muslim Family Laws Ordinance in matters covered by the Schedule (items 1‑6), does not bar the Court from examining the validity of a marriage in a suit for jactitation of marriage. Consequently, the Family Court may entertain evidence of forgery or fraud affecting the marriage.

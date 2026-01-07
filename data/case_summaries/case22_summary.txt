@@ -1,0 +1,33 @@
+**Case Name:**  
+FAQIR BAKHSH AND OTHERS—APPELLANTS VERSUS JINDWADDA AND OTHERS—RESPONDENTS  
+
+**Court:**  
+Lahore High Court  
+
+**Year:**  
+2005  
+
+**Legal Issue:**  
+Whether the mutations (land title changes) effected in favour of Ameer Bakhsh and his heirs, which excluded Mst. Kundan (daughter of Fazal Khan), were void under Islamic inheritance law, and whether the respondents’ suit filed in 1998 was barred by Order XXIII, rule 1 of the Civil Procedure Code (CPC) due to the earlier withdrawal of a similar suit.  
+
+**Relevant Law / Sections:**  
+- Civil Procedure Code (1908), Order XXIII, rule 1  
+- R.I. Specific Relief Act (1877), Section 42  
+- Islamic law (Sharia) governing inheritance  
+
+**Key Facts (brief):**  
+1. Bahadur Khan’s agricultural land in Mouza Wari Azeem Khan was mutated to his three sons: Fazal Khan, Karim Bakhsh, and Allah Ditta.  
+2. Karim Bakhsh and Allah Ditta died without issue; their shares passed to Fazal Khan, making him sole owner.  
+3. Upon Fazal Khan’s death, his son Ameer Bakhsh (predecessor‑in‑interest of the petitioners) obtained mutation No. 797 (24‑9‑1925) in his favour, excluding Fazal Khan’s daughter Mst. Kundan.  
+4. Mst. Kundan, as heir of Fazal Khan, claimed a one‑third share of the property.  
+5. Respondents filed a suit in 1998 seeking declaration of their right to the share and cancellation of the mutations.  
+6. Petitioners argued the mutations were made on false records and were void; respondents claimed the suit was barred by the earlier withdrawal of a similar suit (dated 29‑10‑1997, withdrawn 27‑1‑1999).  
+
+**Holding / Decision:**  
+The Lahore High Court held that:  
+- The mutations effected in favour of Ameer Bakhsh and his heirs were void because they were made in contravention of Islamic inheritance law, which entitles the daughter to a share.  
+- The respondents’ suit was not barred by Order XXIII, rule 1 CPC; the earlier withdrawal of a suit did not preclude filing a new suit on the same subject matter.  
+- The lower courts’ findings were affirmed; the petitioners’ appeal was dismissed.  
+
+**Legal Principle Established:**  
+Mutations that contravene Islamic inheritance provisions are void, and a suit challenging such mutations is not barred by the withdrawal clause of Order XXIII, rule 1 CPC, provided the earlier suit was withdrawn unconditionally. Continuous wrong in inheritance matters allows a suit to be filed at any time, irrespective of the date of the original mutation.

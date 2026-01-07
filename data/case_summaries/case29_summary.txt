@@ -1,0 +1,26 @@
+**Case Name:** Civil Petition No. 616‑K of 2025  
+**Court:** Supreme Court of Pakistan (Appellate Jurisdiction)  
+**Year:** 2025  
+
+**Legal Issue:**  
+Whether a divorced daughter of a deceased government servant is entitled to the family pension of her father after the divorce occurs post‑death of the pensioner, in light of the West Pakistan Civil Services Pension Rules, 1963 and a 2022 Circular of the Sindh Finance Department.  
+
+**Relevant Law / Sections:**  
+- Sindh Civil Servants Act, 1973 – Section 20 (pension entitlement upon death).  
+- West Pakistan Civil Services Pension Rules, 1963 – Rule 4.10 (family pension provisions).  
+- Circular No. FD(PCDC)3(225)/2022, Finance Department, Government of Sindh (clarifying marital status of daughters).  
+- Constitutional reference: Article 9 (right to life, including access to pension).  
+
+**Key Facts (brief):**  
+1. The respondent’s father, a government employee, died 12 Feb 2002.  
+2. The pension was initially paid to the father’s widow (who died 6 Dec 2012).  
+3. The respondent, an unmarried daughter, received the family pension until her marriage, after which it was stopped.  
+4. The respondent obtained a divorce (khula) in August 2022 and thereafter sought resumption of the pension, claiming entitlement as a divorced daughter.  
+5. Petitioners denied the claim citing the 2022 Circular, which states that a daughter is entitled only if she is widowed or divorced at the time of the pensioner’s death.  
+6. The High Court granted the pension to the respondent; the Supreme Court considered the constitutional and statutory framework.  
+
+**Holding / Decision:**  
+The Supreme Court held that the 2022 Circular’s restrictive interpretation is inconsistent with the Sindh Civil Servants Act and the Pension Rules, which do not impose a marital‑status condition at the time of the pensioner’s death. Accordingly, the respondent is entitled to the family pension as a divorced daughter, and the High Court’s order granting the pension was affirmed.  
+
+**Legal Principle Established:**  
+Entitlement to a deceased government servant’s family pension for a daughter is governed by statutory provisions (Act and Rules) and is not limited by her marital status at the time of the pensioner’s death; circulars cannot override these statutory entitlements.

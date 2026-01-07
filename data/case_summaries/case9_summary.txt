@@ -1,0 +1,30 @@
+**Case Name:**  
+JAGSI (PETITIONER) v. SHR. MARWAN AND ANOTHER (RESPONDENT)
+
+**Court:**  
+Sindh High Court
+
+**Year:**  
+2004
+
+**Legal Issue:**  
+Whether the Sindh Family Courts Act, 1964 (and its Section 5) extends jurisdiction to Hindu parties for dissolution of marriage under Hindu custom, and whether the Muslim Family Laws Ordinance, 1961 precludes such jurisdiction.
+
+**Relevant Law / Sections:**  
+- West Pakistan Family Courts Act (XXXV of 1964) – Sections 2(B), 5, and the Schedule  
+- Constitution of Pakistan (1973) – Article 199  
+- Muslim Family Laws Ordinance (1961) – Section 5  
+- Hindu law sources (Sruti, Smriti, Custom) as discussed in the judgment
+
+**Key Facts (brief):**  
+1. Respondent No. 1, a Hindu Menghwar, filed a suit for dissolution of marriage on grounds of cruelty and non‑maintenance.  
+2. The marriage was dissolved by the Joint Civil and Family Judge, Mirpurkhas, in Family Suit No. 46 of 2003.  
+3. Petitioner admitted the marriage and the existence of a custom of dissolution within the Menghwar community.  
+4. Petitioner challenged the jurisdiction of the Family Court, arguing that the Act applies only to Muslim marriages and that Hindu parties are governed solely by Hindu law.  
+5. Amicus curiae and counsel cited several precedents (e.g., *Mulchand v. Smt. Indra*, *Sultan Ahmad v. Mst. Mehr Bhari*, *Gurdit Singh v. Angrez Kaur*) to support the view that the Act is procedural and does not exclude non‑Muslims.
+
+**Holding / Decision:**  
+The Sindh High Court dismissed the petition, affirming the dissolution judgment of the Family Court. It held that the Family Courts Act, 1964 is a procedural statute that applies to all marriage and family matters, including those involving Hindu parties, and that the Muslim Family Laws Ordinance does not override its jurisdiction over non‑Muslim parties.
+
+**Legal Principle Established:**  
+The Family Courts Act, 1964 is applicable to Hindu marriages and the custom of dissolution under Hindu law is recognized as a valid source of personal law. The Muslim Family Laws Ordinance, 1961 does not preclude the jurisdiction of Family Courts over non‑Muslim parties; thus, Family Courts may adjudicate dissolution of Hindu marriages under the procedural framework of the Act.

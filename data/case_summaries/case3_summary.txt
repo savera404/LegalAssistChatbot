@@ -1,0 +1,24 @@
+**Case Name:** Shaukat Hussain v. Ms. Rubina and Others  
+**Court:** Sindh High Court  
+**Year:** 1989  
+
+**Legal Issue:** Whether the decree of dissolution of marriage, dower, and maintenance issued by the 9th Family Judge, Karachi, was void due to alleged fraud, lack of notice for oral divorce, and violation of natural justice.  
+
+**Relevant Law / Sections:**  
+- Constitution of Pakistan, 1973 – Art. 199, Art. 227(1), Art. 268, Art. 2‑A  
+- Muslim Family Laws Ordinance, 1961 – S. 7, S. 8  
+- Code of Civil Procedure – Sec. 151, Sec. 12(2)  
+
+**Key Facts (brief):**  
+- Marriage on 7 May 1986; two minor children.  
+- Petitioner left for Oman, returned 21 July 1988; thereafter abused respondent.  
+- Petitioner orally pronounced divorce on 18 March 1988 (no notice).  
+- Respondent filed application with Union Councillor; Councillor directed parties to court.  
+- Suit for dissolution, dower, maintenance, and restitution of conjugal rights was consolidated; Family Judge decreed dissolution, ordered Rs 20,000 dower, Rs 1,000/month maintenance for 3 months, dismissed petitioner's suit for conjugal rights.  
+- Petitioner appealed; lacking appeal against dissolution, filed Constitutional Petition.  
+
+**Holding / Decision:**  
+The Constitutional Petition was dismissed in limine. The court found no evidence of fraud, no violation of natural justice, and accepted that the oral divorce was recognized by the Councillor and not denied by the petitioner. The decree of the Family Judge remains valid.  
+
+**Legal Principle Established:**  
+A constitutional petition alleging procedural irregularities in a family‑law proceeding is dismissed if the petitioner has been present at the court, the court has exercised its jurisdiction, and no substantive evidence of fraud or violation of natural justice is presented. The absence of notice for an oral divorce does not invalidate the decree if the divorce was acknowledged by the Councillor and the petitioner did not contest it.

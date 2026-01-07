@@ -1,0 +1,22 @@
+**Case Name:** Not specified  
+**Court:** Supreme Court of Pakistan (Appellate Jurisdiction)  
+**Year:** 2025  
+
+**Legal Issue:** Whether the maintenance allowance fixed by the Lahore High Court can be further enhanced and whether the High Court judgment should be set aside.  
+
+**Relevant Law / Sections:**  
+- Article 185(3) of the Constitution of the Islamic Republic of Pakistan, 1973  
+- Code of Civil Procedure, 1908 – Section 151 (application for alteration of maintenance)  
+- Jurisdiction of Family Courts in matters of maintenance  
+
+**Key Facts (brief):**  
+1. Respondents (daughters of Muhammad Amin Saqib) sought maintenance allowance.  
+2. Original decree (18.03.2008) fixed Rs.800/month per daughter; Additional District Judge later increased to Rs.1,500/month.  
+3. Lahore High Court further increased to Rs.2,500/month.  
+4. Respondents filed petitions for further enhancement; petitioner challenged the High Court’s order.  
+
+**Holding / Decision:**  
+The Supreme Court disposed of the petitions for leave to appeal, remitted the matter to the trial court to consider the respondents’ application for enhancement under Section 151 CPC within one month, and directed parties to submit statements on payment/non‑payment of maintenance. The petitioner was ordered to clear any arrears within three months.  
+
+**Legal Principle Established:**  
+Family Courts possess exclusive jurisdiction over maintenance matters; after a decree, parties may seek enhancement through an application under Section 151 CPC rather than filing a fresh suit. The Supreme Court may remand such matters to the trial court for reconsideration.

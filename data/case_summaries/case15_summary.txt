@@ -1,0 +1,22 @@
+**Case Name:** Shakeel Ahmad v. Additional District Judge, Lahore and Another  
+**Court:** Lahore High Court  
+**Year:** 2008  
+
+**Legal Issue:** Whether a suit for recovery of dowry articles filed before the amendment to the West Pakistan Family Courts Act, 1964, is competent under the amended schedule and jurisdictional provisions.  
+
+**Relevant Law / Sections:**  
+- West Pakistan Family Courts Act (XXXV of 1964) – Sections 5, 7(2) and the Schedule  
+- Constitution of Pakistan (1973) – Article 199 (Interpretation of Statutes)  
+- West Pakistan Family Court Rules, 1965 – Rules 5 and 6  
+
+**Key Facts (brief):**  
+- Petition filed on 26 Oct 2001 for recovery of dowry articles worth Rs. 6,99,075.  
+- The suit was filed before the amendment (1 Oct 2002) that added “dowry” to the schedule of Section 5.  
+- Respondent resides in Lahore; petitioner resides in Gojra.  
+- The Family Court at Lahore had earlier found no jurisdiction; the appellate court reversed and remanded.  
+
+**Holding / Decision:**  
+The Lahore High Court dismissed the writ petition, held that the amendment to the Act incorporated dowry into the jurisdiction of Family Courts, thereby validating the suit filed before the amendment, and directed the Family Court to decide the case on its merits.  
+
+**Legal Principle Established:**  
+An amendment that incorporates a new subject (dowry) into the schedule of the Family Courts Act retroactively validates suits filed prior to the amendment, provided the amendment is not retrospective; the jurisdiction of the Family Court is determined by the ordinary residence of the wife in accordance with the amended provisions.
