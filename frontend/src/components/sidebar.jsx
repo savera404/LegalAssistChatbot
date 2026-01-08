@@ -172,25 +172,32 @@ const Sidebar = ({ threads, activeThreadId, onSelectThread, onNewChat }) => {
         + Start New Chat
       </button>
 
-      <h4 className="chats-heading">Your chats</h4>
-
-      {threads.length === 0 && (
-        <p className="no-chats">No chats yet</p>
-      )}
-
-      {threads.map(thread => (
-        <button
-          key={thread.id}
-          onClick={() => onSelectThread(thread.id)}
-          className={`chat-item ${
-            thread.id === activeThreadId ? "active" : ""
-          }`}
-        >
-          {thread.title}
-        </button>
-      ))}
+      <div className="chats-list">
+        <div className="chats-container">
+          <h4 className="chats-heading">Your chats</h4>
+          
+          <div className="chats-items">
+            {threads.length === 0 ? (
+              <p className="no-chats">No chats yet</p>
+            ) : (
+              threads.map(thread => (
+                <button
+                  key={thread.id}
+                  onClick={() => onSelectThread(thread.id)}
+                  className={`chat-item ${
+                    thread.id === activeThreadId ? "active" : ""
+                  }`}
+                >
+                  {thread.title}
+                </button>
+              ))
+            )}
+          </div>
+        </div>
+      </div>
     </div>
   );
 };
+
 
 export default Sidebar;
