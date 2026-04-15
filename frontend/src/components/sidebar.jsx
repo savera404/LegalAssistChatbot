@@ -160,44 +160,43 @@ import '../styles/sidebar.css';
 // };
 
 // export default Sidebar;
-
 const Sidebar = ({ threads, activeThreadId, onSelectThread, onNewChat }) => {
   return (
     <div className="sidebar">
-      <div className="sidebar-header">
+      
+      
+      {/* <div className="sidebar-header">
+        <img src="/logo.png" alt="LegalAssist" className="sidebar-logo" />
         <h2>LegalAssist</h2>
-      </div>
+      </div>  */}
 
       <button className="new-chat-btn" onClick={onNewChat}>
         + Start New Chat
       </button>
 
       <div className="chats-list">
-        <div className="chats-container">
-          <h4 className="chats-heading">Your chats</h4>
-          
-          <div className="chats-items">
-            {threads.length === 0 ? (
-              <p className="no-chats">No chats yet</p>
-            ) : (
-              threads.map(thread => (
-                <button
-                  key={thread.id}
-                  onClick={() => onSelectThread(thread.id)}
-                  className={`chat-item ${
-                    thread.id === activeThreadId ? "active" : ""
-                  }`}
-                >
-                  {thread.title}
-                </button>
-              ))
-            )}
-          </div>
+        <h4 className="chats-heading">Your chats</h4>
+
+        <div className="chats-items">
+          {threads.length === 0 ? (
+            <p className="no-chats">No chats yet</p>
+          ) : (
+            threads.map(thread => (
+              <button
+                key={thread.id}
+                onClick={() => onSelectThread(thread.id)}
+                className={`chat-item ${
+                  thread.id === activeThreadId ? "active" : ""
+                }`}
+              >
+                {thread.title}
+              </button>
+            ))
+          )}
         </div>
       </div>
     </div>
   );
 };
 
-
-export default Sidebar;
+export default Sidebar

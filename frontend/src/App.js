@@ -3,7 +3,7 @@
 import React, { useState,useEffect } from 'react';
 // import { v4 as uuidv4 } from "uuid";
 import Sidebar from './components/sidebar';
-import Navbar from './components/navbar';
+// import Navbar from './components/navbar';
 import ChatArea from './components/chatArea';
 import './styles/global.css';
 import './App.css';
@@ -148,7 +148,7 @@ const handleSelectThread = (threadId) => {
       />
 
       <div className="main-content">
-        <Navbar />
+        
         <ChatArea
           messages={activeThread?.messages || []}
           isLoading={isLoading}
