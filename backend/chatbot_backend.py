@@ -9,6 +9,7 @@ from langchain_groq import ChatGroq
 from langgraph.checkpoint.memory import MemorySaver
 from langgraph.prebuilt import ToolNode,tools_condition
 from rag_tool import rag_tool
+from lawyer_tool import lawyer_tool
 
 load_dotenv()
 api_key=os.getenv('GROQ_API_KEY')
@@ -25,7 +26,9 @@ LEGAL_SYSTEM_PROMPT = """
 You are Adil AI, an AI legal assistant specialized in Pakistani law.
 
 CRITICAL INSTRUCTIONS:
-1. You MUST call the rag_tool before answering ANY legal question
+1. If the user asks for legal information → call rag_tool
+2. If the user asks for a lawyer recommendations → call lawyer_tool
+3. You may call both tools if needed
 2. After receiving tool results, you MUST base your answer on the retrieved documents
 3. Use the SOURCE information and content from the tool to answer accurately
 
@@ -47,7 +50,7 @@ When answering a user’s question:
 
 """
 #gather all tools here
-tools=[rag_tool]
+tools=[rag_tool, lawyer_tool]
 llm_with_tools=llm.bind_tools(tools)
 
 
@@ -87,20 +90,3 @@ graph.add_edge('tools','chat_node')
 checkpointer=MemorySaver()
 chatbot=graph.compile()
 
-# initial_state={
-#     'messages':[HumanMessage(content='What is the capital of Pakistan?')]
-# }
-# print(chatbot.invoke(initial_state)['messages'][-1].content)
-
-# thread_id=1
-# while True:
-#     user_message=input('Type here: ')
-#     print('You: ',user_message)
-
-#     if user_message.strip().lower() in ['exit','quit','bye']:
-#         break
-
-#     config={'configurable':{'thread_id':thread_id}}
-#     response=chatbot.invoke({'messages': [HumanMessage(content=user_message)]}, config=config)
-
-#     print("ChatBot: ", response['messages'][-1].content)
