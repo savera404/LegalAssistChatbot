@@ -8,6 +8,8 @@ import os
 from langchain_groq import ChatGroq
 from langgraph.checkpoint.memory import MemorySaver
 from langgraph.prebuilt import ToolNode,tools_condition
+from langchain_core.messages import ToolMessage
+import json
 from rag_tool import rag_tool
 from lawyer_tool import lawyer_tool
 
@@ -38,6 +40,7 @@ Rules:
 - Use very simple, clear language understandable by non-lawyers, do not use complex legal language or complex vocabulary
 - Always cite laws and cases by name, section, and year in plain text. 
 - Do NOT use placeholders like [1†source].
+- Do not tell the user which tool you are using.
 
 
 When answering a user’s question:
@@ -90,3 +93,15 @@ graph.add_edge('tools','chat_node')
 checkpointer=MemorySaver()
 chatbot=graph.compile()
 
+
+def get_lawyer_data(messages):
+    """Extract raw lawyer_tool result from message history if present"""
+    for msg in reversed(messages):
+        if isinstance(msg, ToolMessage) and msg.name == "lawyer_tool":
+            try:
+                data = json.loads(msg.content)
+                if data.get("type") == "lawyer_results":
+                    return data
+            except:
+                pass
+    return None

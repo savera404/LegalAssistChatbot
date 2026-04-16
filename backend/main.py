@@ -1,6 +1,7 @@
+import json
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from chatbot_backend import chatbot
+from chatbot_backend import chatbot,get_lawyer_data
 from langchain_core.messages import HumanMessage
 from schemas import ChatRequest, ChatResponse
 from datetime import datetime
@@ -37,11 +38,89 @@ async def new_chat(user_id: str):
     }
 
 
+# @app.post("/chat", response_model=ChatResponse)
+# async def chat_endpoint(data: ChatRequest):
+#     conversation_id = data.thread_id
+
+#     # ✅ LOAD conversation history from MongoDB
+#     conversation = await conversation_collection.find_one(
+#         {"_id": ObjectId(conversation_id)}
+#     )
+    
+#     if not conversation:
+#         raise HTTPException(status_code=404, detail="Conversation not found")
+
+#     # ✅ Convert MongoDB messages to LangChain format
+    
+#     history_messages = []
+#     for msg in conversation.get("messages", []):
+#         if msg["role"] == "user":
+#             history_messages.append(HumanMessage(content=msg["content"]))
+#         else:
+#             history_messages.append(AIMessage(content=msg["content"]))
+    
+#     # Add current user message
+#     history_messages.append(HumanMessage(content=data.message))
+
+#     # Save USER message to MongoDB
+#     await conversation_collection.update_one(
+#         {"_id": ObjectId(conversation_id)},
+#         {
+#             "$push": {
+#                 "messages": {
+#                     "role": "user",
+#                     "content": data.message,
+#                     "timestamp": datetime.utcnow()
+#                 }
+#             }
+#         }
+#     )
+
+#     # Call LangGraph with full history ✅
+#     # config = {"configurable": {"thread_id": conversation_id}}
+
+#     config = {
+#     "configurable": {"thread_id": conversation_id},
+#     "metadata": {
+#         "thread_id": conversation_id
+#     },
+#     "run_name": "chat_turn",
+#     }
+    
+#     ai_message = ""
+#     for message_chunk, metadata in chatbot.stream(
+#         {"messages": history_messages},  # ✅ Pass full history
+#         config=config,
+#         stream_mode="messages"
+#     ):
+#         # Only add content from AIMessage, ignore ToolMessage
+#         if isinstance(message_chunk, AIMessage):
+#             ai_message += message_chunk.content
+#         lawyer_data = get_lawyer_data(ai_message["messages"])
+
+#     # Save AI response
+#     await conversation_collection.update_one(
+#         {"_id": ObjectId(conversation_id)},
+#         {
+#             "$push": {
+#                 "messages": {
+#                     "role": "assistant",
+#                     "content": ai_message,
+#                     "timestamp": datetime.utcnow()
+#                 }
+#             }
+#         }
+#     )
+
+#     return ChatResponse(
+#         response=ai_message,
+#         thread_id=conversation_id
+#     )
+
 @app.post("/chat", response_model=ChatResponse)
 async def chat_endpoint(data: ChatRequest):
     conversation_id = data.thread_id
 
-    # ✅ LOAD conversation history from MongoDB
     conversation = await conversation_collection.find_one(
         {"_id": ObjectId(conversation_id)}
     )
@@ -49,19 +128,24 @@ async def chat_endpoint(data: ChatRequest):
     if not conversation:
         raise HTTPException(status_code=404, detail="Conversation not found")
 
-    # ✅ Convert MongoDB messages to LangChain format
-    
-    history_messages = []
+    history_messages = []  # was missing
+
     for msg in conversation.get("messages", []):
         if msg["role"] == "user":
             history_messages.append(HumanMessage(content=msg["content"]))
         else:
-            history_messages.append(AIMessage(content=msg["content"]))
-    
-    # Add current user message
-    history_messages.append(HumanMessage(content=data.message))
+            try:
+                parsed = json.loads(msg["content"])
+                if parsed.get("type") == "lawyer_results":
+                    names = [l["name"] for l in parsed["lawyers"]]
+                    history_messages.append(AIMessage(content=f"I recommended these lawyers: {', '.join(names)}"))
+                else:
+                    history_messages.append(AIMessage(content=msg["content"]))
+            except:
+                history_messages.append(AIMessage(content=msg["content"]))
 
-    # Save USER message to MongoDB
+    history_messages.append(HumanMessage(content=data.message))  # was missing
+
     await conversation_collection.update_one(
         {"_id": ObjectId(conversation_id)},
         {
@@ -75,35 +159,35 @@ async def chat_endpoint(data: ChatRequest):
         }
     )
 
-    # Call LangGraph with full history ✅
-    # config = {"configurable": {"thread_id": conversation_id}}
-
     config = {
-    "configurable": {"thread_id": conversation_id},
-    "metadata": {
-        "thread_id": conversation_id
-    },
-    "run_name": "chat_turn",
+        "configurable": {"thread_id": conversation_id},
+        "metadata": {"thread_id": conversation_id},
+        "run_name": "chat_turn",
     }
     
     ai_message = ""
+    collected_messages = []
+
     for message_chunk, metadata in chatbot.stream(
-        {"messages": history_messages},  # ✅ Pass full history
+        {"messages": history_messages},
         config=config,
         stream_mode="messages"
     ):
-        # Only add content from AIMessage, ignore ToolMessage
+        collected_messages.append(message_chunk)
         if isinstance(message_chunk, AIMessage):
             ai_message += message_chunk.content
 
-    # Save AI response
+    lawyer_data = get_lawyer_data(collected_messages)  # was missing
+
+    content_to_save = json.dumps(lawyer_data) if lawyer_data else ai_message
+
     await conversation_collection.update_one(
         {"_id": ObjectId(conversation_id)},
         {
             "$push": {
                 "messages": {
                     "role": "assistant",
-                    "content": ai_message,
+                    "content": content_to_save,
                     "timestamp": datetime.utcnow()
                 }
             }
@@ -112,21 +196,9 @@ async def chat_endpoint(data: ChatRequest):
 
     return ChatResponse(
         response=ai_message,
-        thread_id=conversation_id
+        thread_id=conversation_id,
+        lawyer_data=lawyer_data
     )
-
-# @app.get("/history/{conversation_id}", response_model=Conversation)
-# async def get_history(conversation_id: str):
-
-#     conversation = await conversation_collection.find_one(
-#         {"_id": ObjectId(conversation_id)}
-#     )
-
-#     if not conversation:
-#         raise HTTPException(status_code=404, detail="Conversation not found")
-
-#     conversation["_id"] = str(conversation["_id"])
-#     return Conversation(**conversation)
 
 @app.get("/conversations/{user_id}")
 async def get_user_conversations(user_id: str):

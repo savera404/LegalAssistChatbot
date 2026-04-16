@@ -1,7 +1,6 @@
 
 // App.js
 import React, { useState,useEffect } from 'react';
-// import { v4 as uuidv4 } from "uuid";
 import Sidebar from './components/sidebar';
 // import Navbar from './components/navbar';
 import ChatArea from './components/chatArea';
@@ -116,6 +115,10 @@ const handleSelectThread = (threadId) => {
 
       const data = await response.json();
 
+      const assistantContent = data.lawyer_data
+        ? JSON.stringify(data.lawyer_data)
+        : data.response;
+
       setThreads(prev =>
         prev.map(thread =>
           thread.id === activeThreadId
@@ -123,12 +126,13 @@ const handleSelectThread = (threadId) => {
                 ...thread,
                 messages: [
                   ...thread.messages,
-                  { role: "assistant", content: data.response }
+                  { role: "assistant", content: assistantContent }
                 ]
               }
             : thread
         )
       );
+     
     } catch (err) {
       console.error(err);
     } finally {

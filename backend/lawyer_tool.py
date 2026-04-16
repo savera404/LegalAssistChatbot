@@ -1,5 +1,5 @@
 from langchain_core.tools import tool
-import asyncio
+import json
 from database import db
 
 def extract_practice_areas(query: str):
@@ -13,12 +13,14 @@ def extract_practice_areas(query: str):
 
     if "harassment" in query:
         return ["criminal"]
+    
+    if "all lawyers" in query:
+        return ['family', 'criminal', 'corporate', 'property']
 
 
     return ["family"]
 
 @tool
-
 def lawyer_tool(query: str) -> str:
     """
     Use this tool when the user asks for a lawyer, legal help, or recommendations.
@@ -34,12 +36,17 @@ def lawyer_tool(query: str) -> str:
     if not lawyers:
         return "Sorry, no lawyers found for your case."
 
-    response = "Here are some lawyers you can consult:\n"
-    for l in lawyers:
-        response += (
-            f"• {l['firstName']} {l['lastName']} - {l.get('practiceArea', 'N/A')}\n"
-            f"  City: {l.get('city', 'N/A')}, "
-            f"Experience: {l.get('experience', 'N/A')} years\n\n"
-        )
-
-    return response
+    result = {
+        "type": "lawyer_results",
+        "lawyers": [
+            {
+                "id": str(l["_id"]),
+                "name": f"{l['firstName']} {l['lastName']}",
+                "practiceArea": l.get("practiceArea", "N/A"),
+                "city": l.get("city", "N/A"),
+                "experience": l.get("experience", "N/A"),
+            }
+            for l in lawyers
+        ]
+    }
+    return json.dumps(result)

@@ -1,5 +1,5 @@
 from pydantic import BaseModel
-from typing import List
+from typing import Optional, Any
 
 class ChatRequest(BaseModel):
     message: str
@@ -8,3 +8,4 @@ class ChatRequest(BaseModel):
 class ChatResponse(BaseModel):
     response: str
     thread_id: str
+    lawyer_data: Optional[Any] = None

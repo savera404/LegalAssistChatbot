@@ -5,6 +5,7 @@ import rehypeRaw from "rehype-raw";
 import React, { useState, useEffect, useRef } from "react";
 import { Send } from "lucide-react";
 import "../styles/chat.css";
+import LawyerTable from "./lawyerTable";
 
 const ChatArea = ({
   messages,
@@ -68,10 +69,19 @@ const ChatArea = ({
                   <div className={`message-bubble ${message.role}`}>
                     {message.role === "assistant" ? (
                       <div className="message-content markdown-content">
-                        <ReactMarkdown remarkPlugins={[remarkGfm]}
-                         rehypePlugins={[rehypeRaw]}>
-                          {message.content}
-                        </ReactMarkdown>
+                            {(() => {
+                              try {
+                                const parsed = JSON.parse(message.content);
+                                if (parsed.type === "lawyer_results") {
+                                  return <LawyerTable lawyers={parsed.lawyers} />;
+                                }
+                              } catch {}
+                              return (
+                                <ReactMarkdown remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeRaw]}>
+                                  {message.content}
+                                </ReactMarkdown>
+                              );
+                            })()}
                       </div>
                     ) : (
                       /* ✅ USER MESSAGE — unchanged (orange/golden bubble) */
