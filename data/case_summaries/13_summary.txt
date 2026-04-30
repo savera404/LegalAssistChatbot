@@ -1,0 +1,29 @@
+**Case Name:**  
+Muhammad Qasim vs The State (Criminal Appeal No. 436 of 2017)
+
+**Court:**  
+Supreme Court of Pakistan (Appellate Jurisdiction)
+
+**Year:**  
+2018
+
+**Legal Issue:**  
+Whether the murders of Meer Muhammad and Mst. Qaim Khatoon committed by the appellant constitute an offence under section 302(c) (grave and sudden provocation) or under sections 302(a)/(b) (honour‑based killings) of the Pakistan Penal Code.
+
+**Relevant Law / Sections:**  
+- Section 302(c) PPC – murder under grave and sudden provocation  
+- Sections 302(a) & 302(b) PPC – honour‑based murders  
+- Section 382‑B Cr.P.C – benefit of remission of sentence  
+- Section 544‑A Cr.P.C – compensation to heirs
+
+**Key Facts (brief):**  
+- On 27 July 2008, the appellant and a co‑accused murdered Meer Muhammad and his sister‑in‑law, Mst. Qaim Khatoon, in a field in Bakhsanabad, Rahim Yar Khan.  
+- Appellant admitted the killings under “grave and sudden provocation” after seeing the deceased together in a compromising position.  
+- Evidence: eyewitness testimony of the deceased’s sons, medical reports, crime‑empties, and a pistol recovered from the appellant.  
+- The trial court convicted the appellant under section 302(b) PPC and sentenced him to death on each count; the High Court reduced the death sentences to life imprisonment.  
+
+**Holding / Decision:**  
+The Supreme Court set aside the convictions and sentences. The appellant is convicted under section 302(c) PPC on two counts, with a sentence of rigorous imprisonment for twenty (20) years on each count and a compensation of Rs 1,00,000 to the heirs of each deceased (or six months simple imprisonment if compensation is not paid). The sentences run concurrently, and the appellant is entitled to the benefit under section 382‑B Cr.P.C.
+
+**Legal Principle Established:**  
+The Court clarified that “in the name or on the pretext of honour” in section 302(c) PPC refers to a pre‑meditated honour killing and must not be conflated with grave and sudden provocation. The present case, lacking premeditation, falls squarely within section 302(c) PPC, thereby distinguishing honour‑based murders from those committed under sudden provocation.

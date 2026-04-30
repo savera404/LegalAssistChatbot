@@ -1,0 +1,28 @@
+**Case Name:**  
+Kiran Bibi v. Addl. Sessions Judge, etc.  
+
+**Court:**  
+Lahore High Court  
+
+**Year:**  
+2024  
+
+**Legal Issue:**  
+Whether the offence under Section 354 of the Pakistan Penal Code (PPC) applies to the alleged assault and whether the case should be tried by a special court under the Anti‑Rape (Investigation and Trial) Act, 2021.  
+
+**Relevant Law / Sections:**  
+- Section 354 PPC (Assault or criminal force to a woman with intent to outrage her modesty)  
+- Sections 147, 149, 452, 337‑F(i), 337‑A(i), 337‑L(2) PPC (other offences alleged)  
+- Anti‑Rape (Investigation and Trial) Act, 2021 (Section 3 and related provisions)  
+
+**Key Facts (brief):**  
+- Petitioner filed FIR No. 323 on 15 Sep 2020 alleging assault, robbery, and related offences by respondents.  
+- The case was initially framed by Magistrate 1st Class Pasrur, then transferred to the GBV/Special Court Pasrur.  
+- The GBV/Special Court, in its order dated 08 Jun 2023, deleted the charge under Section 354 PPC and directed the file to the District & Sessions Judge Sialkot for further entrustment to a Judicial Magistrate.  
+- The petitioner seeks revision of that deletion.  
+
+**Holding / Decision:**  
+The Lahore High Court held that the facts do not establish the intent to outrage a woman’s modesty required for Section 354 PPC; consequently, the offence under Section 354 was not made out and was deleted. The remaining offences are not scheduled offences and are exclusively triable by a Judicial Magistrate; therefore, the case was directed to be placed before the District & Sessions Judge Sialkot for entrustment to the appropriate court.  
+
+**Legal Principle Established:**  
+An offence under Section 354 PPC requires proof of intent to outrage a woman’s modesty; absence of such intent negates the offence. Special courts constituted under the Anti‑Rape (Investigation and Trial) Act, 2021 are limited to rape and sexual‑abuse cases and do not have jurisdiction over general assault offences.

@@ -7,7 +7,9 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-DB_FAISS_PATH = r"D:\LegalAssist_chatbot\vectorstore\faiss_store"
+import os
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DB_FAISS_PATH = os.path.join(BASE_DIR, "vectorstore", "faiss_store")
 
 
 embedding_model = HuggingFaceEmbeddings(

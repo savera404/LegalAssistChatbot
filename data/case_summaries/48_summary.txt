@@ -1,0 +1,33 @@
+**Case Name:**  
+SULEMAN … Petitioner v. THE STATE etc.  
+
+**Court:**  
+Supreme Court of Pakistan (Appellate Jurisdiction)  
+
+**Year:**  
+2025  
+
+**Legal Issue:**  
+Whether a 13‑year‑old juvenile, convicted of rape of a 10‑year‑old girl under Section 376(3) of the Pakistan Penal Code (PPC), is liable to conviction and life imprisonment, and whether the presumption of doli incapax under Section 83 PPC (as amended 2016) was properly considered.  
+
+**Relevant Law / Sections:**  
+- Section 376(3) PPC (rape of a minor)  
+- Section 83 PPC (presumption of doli incapax for children 10‑14) – amended 2016  
+- Section 82 PPC (absolute immunity for children under 10)  
+- Criminal Law (Second Amendment) Act, 2016  
+- Juvenile Justice System Act, 2018  
+- Article 185(3) Constitution of Pakistan (right to appeal a conviction)  
+
+**Key Facts (brief):**  
+- Petitioner Suleman, age ~13, was charged with raping 10‑year‑old Shahida Bibi (FIR No. 399/2018).  
+- Trial Court convicted him under Section 376(3) PPC, sentencing him to life imprisonment plus Rs 20,000 compensation; default would add two months simple imprisonment.  
+- Co‑accused Mst. Sajida Bibi was acquitted.  
+- Lahore High Court upheld the conviction and sentence (Crl. Appeal No. 76861/2019).  
+- Petitioner filed a criminal petition under Article 185(3) (Crl. P.L.A. No. 297‑L/2025).  
+- No psychological assessment or inquiry into the petitioner’s maturity was conducted.  
+
+**Holding / Decision:**  
+The Supreme Court dismissed the petition, thereby upholding the Lahore High Court’s judgment and affirming the conviction and sentence of the petitioner.  
+
+**Legal Principle Established:**  
+The Court reiterated that Section 83 PPC provides a rebuttable presumption of criminal incapacity for children aged 10‑14; the prosecution must prove that the child possessed sufficient maturity to understand the nature and consequences of the act. In the absence of such evidence, the conviction and sentence may stand, though the Court noted the importance of psychological evaluation and the need for a reformative approach in juvenile cases.

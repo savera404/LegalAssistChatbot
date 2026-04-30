@@ -1,5 +1,5 @@
 **Case Name:**  
-Civil Petition Nos. 768 and 827 of 2022 (Mst. Fakhra Jabeen v. Wasif Ali and others)
+Civil Petition Nos. 768 and 827 of 2022 (Mst. Fakhra Jabeen v. Wasif Ali et al.)
 
 **Court:**  
 Supreme Court of Pakistan (Appellate Jurisdiction)
@@ -8,24 +8,24 @@ Supreme Court of Pakistan (Appellate Jurisdiction)
 2024
 
 **Legal Issue:**  
-Whether the entries in columns 13 (cash dower) and 16 (property dower) of a Nikahnama are to be read separately or conjunctively, and whether a dower described in column 16 becomes operative only if the cash amount in column 13 is unpaid; also whether a person not privy to the Nikahnama can be bound by its entries.
+Whether the entries in columns 13 and 16 of a Nikahnama are to be read separately or conjunctively, and whether a party not privy to the Nikahnama is bound by its dower provisions.
 
 **Relevant Law / Sections:**  
-- Article 185(3) of the Constitution of Pakistan  
-- Article 199 of the Constitution of Pakistan  
-- Muslim Family Laws Ordinance, 1961  
-- West Pakistan Rules under the Muslim Family Laws Ordinance, 1961  
+- Muslim Family Laws Ordinance, 1961 (Ordinance of 1961)  
+- West Pakistan Rules under the Muslim Family Laws Ordinance, 1961 (Rules of 1961)  
+- Article 185(3) of the Constitution of Pakistan (jurisdiction of the Supreme Court)  
+- Article 199 of the Constitution of Pakistan (jurisdiction of the High Court)
 
 **Key Facts (brief):**  
-- Marriage contracted on 05 Jun 2005; Nikahnama executed and registered.  
-- Dower recorded: Rs 500,000 in column 13; a plot described in column 16.  
-- Disputes over dower and maintenance led to litigation.  
-- Trial court declared the certified copy of the Nikahnama (Ex‑P‑2) genuine; the uncertified copy (Ex‑D‑6) was discarded.  
-- High Court held that columns 13 and 16 are distinct; the property in column 16 is payable only if the cash in column 13 is not paid, and that entries are to be interpreted in favour of the groom.  
-- High Court found respondent No. 2 liable for the obligation in column 16.
+- Marriage contracted 05 Jun 2005; Nikahnama executed and registered.  
+- Dower of Rs 500,000 (column 13) and a plot of land (column 16) recorded.  
+- Subsequent disputes led to suits for recovery of dower and maintenance.  
+- Trial court declared the certified copy of the Nikahnama genuine; the uncertified copy with alterations was discarded.  
+- Appellate court held the wife entitled to both the cash dower and the plot, and increased maintenance for the minor.  
+- High Court held that columns 13 and 16 are distinct; the plot is in lieu of the cash amount and is operative only if the cash dower is not paid; entries are interpreted in favour of the groom; a privy party is bound.
 
 **Holding / Decision:**  
-Not specified (judgment pending).
+The Supreme Court affirmed the High Court’s interpretation that the entries in columns 13 and 16 of the Nikahnama are separate; the property described in column 16 is contingent upon non‑payment of the cash amount in column 13. The Court held that the defendant, being privy to the Nikahnama, is liable for the dower obligations recorded therein.
 
 **Legal Principle Established:**  
-Not specified.
+Nikahnama entries must be read separately; a dower property in column 16 is in lieu of the cash amount in column 13 and becomes enforceable only upon default in payment of the cash dower. Entries are construed in favour of the groom, and parties privy to the Nikahnama are bound by its provisions.

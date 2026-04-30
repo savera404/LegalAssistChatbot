@@ -1,0 +1,33 @@
+**Case Name:**  
+GUL SHER vs ADDITIONAL AND SESSIONS JUDGE/EX OFFICIO JUSTICE OF PEACE, BHOWANA and 3 others  
+
+**Court:**  
+Lahore High Court  
+
+**Year:**  
+2023  
+
+**Legal Issue:**  
+Whether the order under Section 22‑A Cr.P.C. directing prosecution of the petitioner for dishonestly issuing a cheque, based on a compromise that constituted the illegal custom of vani/swara, is valid.  
+
+**Relevant Law / Sections:**  
+- Section 22‑A Cr.P.C. (application for prosecution)  
+- Section 489‑F P.P.C. (dishonestly issuing a cheque)  
+- Section 310‑A P.P.C. (punishment for vani/swara)  
+- Section 24 Contract Act, 1872 (void consideration)  
+- Article 8(1), Article 25, Article 34, Article 36, Article 37, Article 199 of the Constitution of Pakistan  
+
+**Key Facts (brief):**  
+1. In 2015, Faraz was murdered; FIR No.168/2015 was registered against Nawaz.  
+2. A Panchayat ordered Nawaz to marry his daughter to the victim’s family, with a penalty of Rs 10 million if default.  
+3. The petitioner issued Cheque No.1556117547 (26 Sep 2019) as security for the penalty.  
+4. Nawaz refused to marry; the cheque bounced.  
+5. Respondent No.4 filed an application under Section 22‑A Cr.P.C. to prosecute the petitioner for dishonestly issuing the cheque.  
+6. The Ex‑officio Justice accepted the application.  
+7. The petitioner challenged the order under Article 199.  
+
+**Holding / Decision:**  
+The court held that the compromise was void ab initio because it constituted the illegal custom of vani/swara, which is prohibited under Section 310‑A P.P.C. and void under Article 8(1) of the Constitution. Consequently, the cheque was void under Section 24 Contract Act, 1872, as its consideration was unlawful. The order directing prosecution of the petitioner was therefore invalid and dismissed.  
+
+**Legal Principle Established:**  
+Customary practices that contravene constitutional fundamental rights (e.g., vani/swara) are void; contracts or securities based on such practices are void; the law does not permit prosecution based on a void agreement or cheque.

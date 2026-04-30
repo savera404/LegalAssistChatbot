@@ -8,22 +8,24 @@ Supreme Court of Pakistan (Appellate Jurisdiction)
 2025
 
 **Legal Issue:**  
-Whether the Supreme Court should alter the quantum of maintenance allowance awarded to the petitioner’s minor son by the lower courts.
+Whether the Supreme Court should grant leave to appeal against the High Court’s dismissal of a Constitution Petition concerning the quantum of maintenance allowance for a minor son.
 
 **Relevant Law / Sections:**  
 - Article 185(3) of the Constitution of the Islamic Republic of Pakistan, 1973  
 - Islamic jurisprudence on maintenance (Nasab)  
-- Case law: *Humayun Hassan v. Arsalan Hassan* (PLD 2013 SC 557)
+- Case law: *Humayun Hassan v. Arsalan Hassan* (PLD 2013 SC 557)  
+- Other Islamic legal principles cited in the judgment (no specific statutory sections specified)
 
 **Key Facts (brief):**  
-1. Mst. Zarnain Arzoo, former spouse of the petitioner, sued for dower, maintenance for herself and their minor son, and dowry articles.  
-2. Trial Court (20 Nov 2021) awarded Rs. 15,000/month to the wife and Rs. 25,000/month to the son (with a 10 % annual increase until majority).  
-3. Appellate Court (06 Apr 2022) reduced the wife’s maintenance to Rs. 10,000/month and adjusted dower values.  
-4. The petitioner filed a Constitution Petition, which was dismissed by the Lahore High Court (03 Oct 2024).  
-5. The petitioner now seeks leave to appeal the maintenance amount.
+1. Petitioner was previously married to respondent Mst. Zarnain Arzoo.  
+2. Respondent sought dower, maintenance for herself, and maintenance for her minor son, Ameer Haider Khan.  
+3. Trial court (20 Nov 2021) awarded maintenance of Rs. 25,000 /‑ per month for the son with a 10 % annual increase until majority.  
+4. Appellate court (06 Apr 2022) reduced the maintenance awarded to respondent No. 1 but upheld the son’s maintenance award.  
+5. Petitioner filed a Constitution Petition, which was dismissed by the Lahore High Court (03 Oct 2024).  
+6. Petitioner now seeks leave to appeal to the Supreme Court.
 
 **Holding / Decision:**  
-The Supreme Court dismissed the petition and declined leave to appeal, affirming the lower courts’ findings and refusing to alter the maintenance award.
+The Supreme Court dismissed the petition and declined leave to appeal, thereby upholding the findings of the lower courts.
 
 **Legal Principle Established:**  
-A father’s obligation to provide maintenance for a minor child is independent of marital status and persists until the child attains majority; the amount awarded by the courts is not excessive absent evidence of the father’s inability to pay.
+The father’s obligation to provide maintenance for a minor child is independent of the dissolution of marriage and persists until the child attains majority; the Supreme Court will not interfere with lower courts’ determinations of maintenance quantum absent clear error.

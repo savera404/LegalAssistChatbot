@@ -11,3 +11,8 @@ venv/
 
 # Ignore temporary files
 *.log
+
+
+node_modules/
+package.json
+package-lock.json

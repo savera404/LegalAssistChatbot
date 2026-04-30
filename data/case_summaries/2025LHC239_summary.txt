@@ -1,9 +1,9 @@
-**Case Name:** Ibrar vs The State etc.  
-**Court:** Lahore High Court, Lahore (Judicial Department)  
-**Year:** 2025  
+**Case Name:** Ibrar vs The State  
+**Court:** Lahore High Court, Judicial Department  
+**Year:** 2025 (judgment dated 28 January 2025)  
 
 **Legal Issue:**  
-Whether the conviction and death sentence imposed on Ibrar under Sections 302 and 324 of the Pakistan Penal Code (PPC) are viable, and whether the delay in filing the First Information Report (FIR) affects the admissibility of the evidence.  
+Whether the conviction and death sentence imposed on Ibrar under Sections 302 and 324 of the Pakistan Penal Code (PPC) are viable, and whether the delay in filing the First Information Report (FIR) affects the admissibility of evidence.  
 
 **Relevant Law / Sections:**  
 - Section 302 PPC (Murder)  
@@ -11,21 +11,19 @@ Whether the conviction and death sentence imposed on Ibrar under Sections 302 
 - Section 544‑A Cr.P.C. (Compensation)  
 - Section 173 Cr.P.C. (Investigation)  
 - Section 342 Cr.P.C. (Statement of Accused)  
-- Section 340(2) Cr.P.C. (Oath of Accused)  
-- Section 161 Cr.P.C. (Witness Statement)  
+- Section 340(2) Cr.P.C. (Oath)  
+- Section 161 Cr.P.C. (Witness)  
 
 **Key Facts (brief):**  
-- On 17 Jan 2020, Ibrar fired a 30‑bore pistol at his daughter‑in‑law, Zeenat Bibi, killing her; he also shot an injured witness.  
-- He fled the scene; the police recovered the pistol and live bullets.  
-- Zeenat Bibi died on 24 Feb 2020; Section 302 was added to the charge.  
-- Investigation produced ocular, medical, forensic, and circumstantial evidence.  
-- The FIR was lodged on 18 Jan 2020, approximately 30 hours after the incident.  
-- Ibrar pleaded not guilty, did not give a statement under Section 340(2), and produced no defence evidence.  
-- The trial court convicted him and imposed a death sentence, plus imprisonment and compensation.  
-- A Murder Reference (No. 74/2021) was filed for confirmation of the death sentence.  
+- On 17 January 2020, Ibrar, armed with a 30‑bore pistol, fired at his daughter‑in‑law Zeenat Bibi, killing her, and also shot Asghar Ali, who was injured.  
+- Ibrar fled the scene; the pistol and bullets were recovered during investigation.  
+- The case was registered as FIR No. 77/2020; the FIR was lodged on 18 January 2020.  
+- Ibrar was convicted by the Additional Sessions Judge, Gujranwala, and sentenced to death under Section 302 PPC, with additional imprisonment and fines under Section 324 PPC.  
 
 **Holding / Decision:**  
-Not specified.  
+Not specified in the provided excerpt.  
 
 **Legal Principle Established:**  
-Not specified.
+- A delay in lodging an FIR is not per se fatal to a case; it does not invalidate reliable ocular or circumstantial evidence.  
+- Delay is only relevant in cases involving enmity; absent evidence of enmity, the delay does not prejudice the prosecution.  
+- The court reiterated that the presence of credible eyewitness testimony and forensic evidence can sustain a conviction even when the FIR is filed after a delay.

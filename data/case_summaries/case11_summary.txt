@@ -1,5 +1,5 @@
 **Case Name:**  
-Riaz Javed v. Sheraz Ahmed and 4 others  
+Riaz Javed v. Sheraz Ahmed and 4 Others  
 
 **Court:**  
 Lahore High Court  
@@ -8,7 +8,7 @@ Lahore High Court
 2010  
 
 **Legal Issue:**  
-Whether the “subject to” clause in Section 5 of the West Pakistan Family Courts Act, 1964 limits the jurisdiction of Family Courts over non‑Muslim parties, specifically Ahmadis, for matters such as dissolution of marriage, maintenance, dowry, etc.  
+Whether the Family Courts, under Section 5 of the West Pakistan Family Courts Act, 1964, have jurisdiction to entertain matters involving non‑Muslims (specifically Ahmadis) when the Act contains a “subject to” clause referring to the Muslim Family Laws Ordinance, 1961.  
 
 **Relevant Law / Sections:**  
 - West Pakistan Family Courts Act, 1964 – Section 5(1)  
@@ -18,10 +18,14 @@ Whether the “subject to” clause in Section 5 of the West Pakistan Family C
 **Key Facts (brief):**  
 1. Respondents filed a suit for maintenance, dower, dowry, dissolution of marriage and visitation before the Family Court, Sialkot.  
 2. Petitioner objected to the court’s jurisdiction, arguing that Section 5 of the Act does not apply to non‑Muslims.  
-3. Amicus curiae (Mirza Adeel Ahmed) and counsel for respondents argued that the “subject to” clause is a conflict‑resolution device and that the MFLO applies only to Muslim citizens.  
+3. Amicus curiae (Mirza Adeel Ahmed) and counsel for respondents argued that the “subject to” clause is religion‑neutral and that the MFLO is not applicable to non‑Muslims.  
 
 **Holding / Decision:**  
-The Lahore High Court held that the “subject to” clause in Section 5 is operative only when there is a conflict between the MFLO and the Act. Since the MFLO applies exclusively to Muslim citizens, it does not affect cases involving non‑Muslims. Consequently, the Family Court has exclusive jurisdiction over the matters specified in the schedule for non‑Muslim parties.  
+The Lahore High Court held that:  
+- The “subject to” clause in Section 5 is a conflict‑resolution device; it is operative only when there is a conflict between the MFLO and the Act.  
+- The MFLO applies solely to Muslim citizens of Pakistan; therefore, it does not apply to non‑Muslims, including Ahmadis.  
+- Consequently, the “subject to” clause has no effect on the jurisdiction of the Family Court over non‑Muslims.  
+- The Family Court has exclusive jurisdiction to entertain matters specified in Part I of the Schedule for non‑Muslims, applying the appropriate personal law.  
 
 **Legal Principle Established:**  
-The “subject to” clause in Section 5 of the West Pakistan Family Courts Act, 1964 serves solely as a conflict‑resolution mechanism; it does not restrict the Act’s jurisdiction over non‑Muslims. The MFLO’s applicability is limited to Muslim citizens, thereby leaving non‑Muslim cases within the purview of the Family Courts.
+Section 5(1) of the West Pakistan Family Courts Act, 1964, is religion‑neutral; the “subject to” clause merely determines which law prevails in case of conflict. It does not restrict the Family Court’s jurisdiction over non‑Muslims, allowing such cases to be heard under the relevant personal law.

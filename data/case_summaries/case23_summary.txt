@@ -2,19 +2,21 @@
 **Court:** Peshawar High Court  
 **Year:** 2010  
 
-**Legal Issue:** Whether the judgment and decree dated 24‑4‑2008 dismissing the petitioners’ appeal, and the earlier mutations of Noor Khan’s legacy, were valid under the applicable Muslim Personal Law and whether the respondent’s claim to a Shari share was barred by limitation.  
+**Legal Issue:** Whether the judgment and decree of 24‑4‑2008 by the Additional District Judge, Mardan, dismissing the petitioners’ appeal, was valid; specifically, whether the respondent (daughter of Noor Khan) is entitled to her Shari share in the legacy and whether the earlier inheritance mutations were lawful under the applicable Muslim Personal Law.  
 
 **Relevant Law / Sections:**  
-- North‑West Frontier Province Muslim Personal Law (Shariat) Application Act VI of 1935, Section 2  
-- West Pakistan Muslim Personal Law (Shariat) Application Act V of 1962, Section 2  
-- Specific Relief Act 1877, Section 42  
-- Limitation Act (not specified)  
+- North‑West Frontier Province Muslim Personal Law (Shariat) Application Act (VI of 1935) – Sections 2, 3  
+- West Pakistan Muslim Personal Law (Shariat) Application Act (V of 1962) – Section 2  
+- Specific Relief Act, 1877 – Section 42 (noted but not central to the decision)  
+- Limitation Act (as applied to claims under Muslim Personal Law)  
 
 **Key Facts (brief):**  
-1. Respondent No. 1, daughter of Noor Khan, sued petitioners to obtain a declaration of her entitlement to a Shari share of Noor Khan’s legacy and to correct the revenue record.  
-2. Petitioners claimed that Noor Khan’s property had been lawfully devolved to them through mutations No. 381 (23‑5‑1934) and No. 575 (29‑8‑1937) and that respondent No. 1 had no locus standi.  
-3. The dispute concerns inheritance acquired before 16‑3‑1948, when customary law governed.  
+1. Respondent No. 1 sued petitioners to declare her entitlement to a Shari share of her father Noor Khan’s legacy and to correct the revenue record.  
+2. Petitioners argued that Noor Khan’s property had devolved to them through mutations (Nos. 381 and 575, attested 1934 and 1937) and that respondent No. 1 had no locus standi.  
+3. The trial court dismissed the petitioners’ appeal; the petitioners appealed to the High Court.  
 
-**Holding / Decision:** The Peshawar High Court upheld the trial court’s judgment and decree, dismissing the petition. It held that the earlier mutations were lawful under the custom applicable at the time of Noor Khan’s death and that respondent No. 1’s claim was barred by limitation.  
+**Holding / Decision:**  
+The Peshawar High Court held that the lower courts had failed to address the key legal questions and had committed illegality and irregularity. Consequently, the judgments and decrees of the lower courts were set aside. The Court found that the inheritance of Noor Khan was governed by Muslim Personal Law as applied by the 1935 Act (and its 1962 amendment), and that respondent No. 1 was entitled to her Shari share.  
 
-**Legal Principle Established:** Inheritance cases involving estates acquired before 16‑3‑1948 are governed by the customary law in force at the time of death; claims under Muslim Personal Law are subject to the limitation provisions in force, and earlier mutations recorded under custom are valid if properly attested.
+**Legal Principle Established:**  
+The Court reaffirmed that, in matters of Muslim succession, the applicable law is the Muslim Personal Law (Shariat) as enacted, even when custom had previously governed the inheritance. The limitation period for such claims is governed by the law in force at the time of the claim, not by customary law, thereby protecting the rights of female heirs to their Shari share.

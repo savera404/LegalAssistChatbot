@@ -8,19 +8,19 @@ Lahore High Court
 2025  
 
 **Legal Issue:**  
-Whether criminal proceedings against the petitioner should be stayed pending the outcome of related civil/family litigation concerning a forged Nikah Nama.  
+Whether criminal proceedings under the Prevention of Corruption Act and the Penal Code should be stayed pending the outcome of related civil/family litigation concerning a forged Nikah Nama.  
 
 **Relevant Law / Sections:**  
 - Sections 420, 467, 468, 471 of the Pakistan Penal Code (PPC)  
 - Section 5(2) of the Prevention of Corruption Act, 1947  
 
 **Key Facts (brief):**  
-- FIR No. 284/2021 (dated 22‑07‑2021) alleges offences under the above sections and the Prevention of Corruption Act.  
-- The accused, Fakhar Khalid (Respondent No. 3), is accused of forging a Nikah Nama to claim property left by his deceased father, with Abida Siddique named as the alleged wife.  
-- The petitioner’s criminal revision petition seeks a stay of the proceedings, which was denied by the Special Judge, Anti‑Corruption, Sahiwal.  
+- FIR No. 284/2021 (dated 22‑07‑2021) alleges that accused Fakhar Khalid forged a Nikah Nama to claim property left by his deceased father.  
+- Abida Siddique, one of the accused, petitioned for a stay of the criminal proceedings.  
+- The petition challenges an order by a Special Judge, Anti‑Corruption, Sahiwal, which declined the stay.  
 
 **Holding / Decision:**  
-The Lahore High Court allows the revision petition, directing the trial court to continue the criminal proceedings but to refrain from disposing of the case until the civil/family case concerning the Nikah Nama is decided.  
+The Lahore High Court allowed the criminal revision petition, directing the trial court to continue the criminal proceedings but to refrain from final disposal until the civil/family case concerning the Nikah Nama is decided.  
 
 **Legal Principle Established:**  
-Criminal proceedings may be stayed pending the resolution of related civil/family litigation when the outcome of the civil case is essential to determining criminal liability, to avoid conflicting judgments.
+When criminal liability is linked to the outcome of a civil/family proceeding, the trial court may exercise discretion to postpone final disposal of the criminal case to avoid conflicting judgments, ensuring that the criminal proceedings are not concluded before the civil matter is resolved.

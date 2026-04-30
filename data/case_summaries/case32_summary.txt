@@ -1,5 +1,5 @@
 **Case Name:**  
-Mst. RAMZANU BIBI vs IBRAHIM (deceased) through L.R.s. and others  
+Mst. RAMZANU BIBI v. IBRAHIM (deceased) through L.Rs. and others  
 
 **Court:**  
 Supreme Court of Pakistan  
@@ -8,23 +8,21 @@ Supreme Court of Pakistan
 2025  
 
 **Legal Issue:**  
-Whether the mutation dated 24 September 1974 (No. 914) recording an oral gift of land from Ramzanu Bibi to Ibrahim and Shadi is valid, and consequently whether the land remains in Ramzanu Bibi’s ownership.  
+Whether the mutation dated 24 September 1974 (No. 914) recording an oral gift of land from Ramzanu Bibi to Ibrahim and Shadi is valid, and whether the appellant is entitled to the title of the land inherited from her mother.  
 
 **Relevant Law / Sections:**  
-- Pakistani property law governing gifts and land mutation (administrative procedure).  
-- Principles of burden of proof in civil litigation (pleading, evidence, persuasion).  
-- Doctrine of fraudulent conveyance (void ab initio).  
+- Pakistani property law governing mutation and transfer of land (Transfer of Property Act, 1882 – not explicitly cited).  
+- Principles of fraudulent conveyance and the burden of proof in civil claims.  
 
 **Key Facts (brief):**  
-- Ramzanu Bibi inherited 16 kanals 18 marlas of land from her mother, Mst. Jimmy.  
-- Two mutations were sanctioned on 24 September 1974:  
-  1. Inheritance mutation No. 913 (devolving land to Ramzanu Bibi).  
-  2. Gift mutation No. 914 (recording an oral gift of the land to Ibrahim and Shadi).  
-- Ramzanu Bibi challenged mutation No. 914 before the Collector and later in a civil suit, alleging fraud and lack of informed consent.  
-- Respondents failed to disclose essential details of the alleged gift in their written statements and did not provide sufficient evidence to prove the transaction.  
+- Ramzanu Bibi inherited land from her mother Mst. Jimmy.  
+- Mutation No. 913 (inheritance) transferred the land to Ramzanu Bibi but did not record her presence.  
+- Mutation No. 914 recorded an oral gift of the land to Ibrahim and Shadi, with Ramzanu Bibi’s thumb impression.  
+- The appellant challenged the gift mutation before the Collector and later in civil court, alleging fraud and lack of evidence.  
+- Respondents failed to disclose essential details of the alleged gift in their written statements and did not provide sufficient evidence.  
 
 **Holding / Decision:**  
-The Supreme Court held that mutation No. 914 is void ab initio. The respondents failed to satisfy the pleading, evidentiary, and persuasive burdens required to establish the validity of the alleged gift. Consequently, the land remains in the ownership of Ramzanu Bibi.  
+The Supreme Court held that the gift mutation No. 914 is void ab initio due to lack of proof of a valid gift and evidence of fraud. The appellant is entitled to the title of the land.  
 
 **Legal Principle Established:**  
-A mutation is an administrative record and does not confer title; parties asserting a gift must prove the underlying transaction. Failure to meet the burden of proof, especially in the presence of fraud or lack of informed consent, renders the mutation void.
+A mutation does not confer title; the burden of proving a valid gift lies with the parties asserting the mutation. Failure to meet pleading, evidentiary, and persuasion burdens, coupled with evidence of fraud, renders the mutation void.

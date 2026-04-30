@@ -1,22 +1,30 @@
-**Case Name:** Not specified  
-**Court:** Supreme Court of Pakistan (Appellate Jurisdiction)  
-**Year:** 2025  
+**Case Name:**  
+C.P.L.A. No. 919‑L of 2016 & C.P.L.A. No. 1056‑L of 2016  
 
-**Legal Issue:** Whether the maintenance allowance fixed by the Lahore High Court can be further enhanced and whether the High Court judgment should be set aside.  
+**Court:**  
+Supreme Court of Pakistan (Appellate Jurisdiction)  
+
+**Year:**  
+2025  
+
+**Legal Issue:**  
+Whether the Supreme Court should grant leave to appeal under Article 185(3) of the Constitution concerning the enhancement of maintenance allowance for the petitioners’ daughters and whether the matter should be remitted to the trial court for reconsideration under Section 151 CPC.  
 
 **Relevant Law / Sections:**  
-- Article 185(3) of the Constitution of the Islamic Republic of Pakistan, 1973  
-- Code of Civil Procedure, 1908 – Section 151 (application for alteration of maintenance)  
-- Jurisdiction of Family Courts in matters of maintenance  
+- Article 185(3) Constitution of Pakistan  
+- Section 151, Code of Civil Procedure, 1908  
+- Family Court jurisdiction provisions (as applied in the judgment)  
 
 **Key Facts (brief):**  
-1. Respondents (daughters of Muhammad Amin Saqib) sought maintenance allowance.  
-2. Original decree (18.03.2008) fixed Rs.800/month per daughter; Additional District Judge later increased to Rs.1,500/month.  
-3. Lahore High Court further increased to Rs.2,500/month.  
-4. Respondents filed petitions for further enhancement; petitioner challenged the High Court’s order.  
+1. Respondents No. 4 and No. 5 (daughters of petitioner Muhammad Amin Saqib) sought maintenance allowance.  
+2. A decree dated 18 March 2008 fixed Rs 800/month per daughter; an enhancement application was dismissed by the Judge Family Court on 15 December 2011.  
+3. The Additional District Judge increased the allowance to Rs 1,500/month per daughter.  
+4. The Lahore High Court further increased it to Rs 2,500/month per daughter.  
+5. The respondents were dissatisfied with the High Court’s fixation; the petitioner challenged the High Court order.  
+6. Petitions for leave to appeal were filed before the Supreme Court.  
 
 **Holding / Decision:**  
-The Supreme Court disposed of the petitions for leave to appeal, remitted the matter to the trial court to consider the respondents’ application for enhancement under Section 151 CPC within one month, and directed parties to submit statements on payment/non‑payment of maintenance. The petitioner was ordered to clear any arrears within three months.  
+The Supreme Court disposed of the CPLAs, remitted the matter to the trial court to consider the respondents’ application for enhancement of maintenance allowance under Section 151 CPC within one month, and directed the parties to submit concise statements of payment and non‑payment of the fixed allowance. The petitioner was ordered to clear any arrears within three months in equal instalments.  
 
 **Legal Principle Established:**  
-Family Courts possess exclusive jurisdiction over maintenance matters; after a decree, parties may seek enhancement through an application under Section 151 CPC rather than filing a fresh suit. The Supreme Court may remand such matters to the trial court for reconsideration.
+The Family Court has exclusive jurisdiction over maintenance for minors; after a decree, if the rate is deemed insufficient, a fresh suit is unnecessary—rather, the Family Court may entertain an application under Section 151 CPC to alter the maintenance allowance. The Supreme Court may remand such matters to the trial court for reconsideration.

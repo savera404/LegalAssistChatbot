@@ -1,31 +1,32 @@
 **Case Name:**  
-Abdul S Attar vs Mst. Zahida Parveen and 10 Others  
+Abdul S Attar v. Mst. Zahida Parveen and Others  
 
 **Court:**  
 Sindh High Court  
 
 **Year:**  
-1990  
+1991  
 
 **Legal Issue:**  
-Whether the criminal complaint for “zina” filed by the respondent after a final decree of dissolution of marriage (and before the expiry of the Iddat period) was maintainable, and the effect of the dissolution decree under the Muslim Family Laws Ordinance.  
+Whether the respondents were guilty of an offence under the Offence of Zina Ordinance, 1979, for contracting a fresh marriage before the iddat period, given that the dissolution decree issued by the Family Court was not yet effective under the Muslim Family Laws Ordinance, 1961.  
 
 **Relevant Law / Sections:**  
-- Muslim Family Laws Ordinance (VIII of 1961) – Sections 7, 21, 8  
-- Family Courts Act (XXXV of 1964) – Section 21  
-- Offence of Zina (Enforcement of Hudood) Ordinance (VII of 1979) – Section 10(2)  
-- Penal Code – Sections 494, 109  
+- Muslim Family Laws Ordinance (VIII of 1961) – Sections 7, 8, 21  
+- Family Courts Act (West Pakistan) – Section 21  
+- Offence of Zina Ordinance (VII of 1979) – Section 10(2)  
+- Penal Code – Sections 494 and 109  
 
 **Key Facts (brief):**  
-1. Petitioner and respondent No. 1 married in 1981.  
-2. Respondent filed a suit for dissolution in 1988; decree issued 2‑5‑1989.  
-3. Respondent remarried 24‑5‑1989 before the Iddat period expired.  
-4. Respondent lodged a criminal complaint under Section 10(2) of the Zina Ordinance in August 1989.  
-5. Preliminary enquiry ordered 18‑8‑1989; complaint dismissed 23‑11‑1989.  
-6. Criminal revision application filed; dismissed 7‑2‑1990.  
+1. Petitioner and respondent married in 1981.  
+2. Respondent filed a suit for dissolution in 1988; the suit and its appeal were dismissed.  
+3. A constitutional petition remanded the matter to the Family Court; a decree of dissolution was issued on 30‑4‑1989.  
+4. Petitioner challenged the decree in a constitutional petition (outcome not specified).  
+5. Respondent contracted a new marriage on 24‑5‑1989 before the iddat period and filed a complaint under Section 10(2) of the Offence of Zina Ordinance.  
+6. The Sessions Judge ordered a preliminary enquiry; the complaint was dismissed on 23‑11‑1989.  
+7. A criminal revision application was filed and dismissed on 7‑2‑1990.  
 
 **Holding / Decision:**  
-The Sindh High Court dismissed the criminal revision application, affirming that the dissolution decree was final and effective after service of notice to the Chairman and the 90‑day period, and that the criminal complaint for zina was not maintainable.  
+The criminal revision application was dismissed. The Court held that the dissolution decree was not effective until notice was served to the Chairman and a period of 90 days had elapsed; delayed service does not render the decree ineffective. Consequently, the respondents were not guilty of the offence under the Offence of Zina Ordinance.  
 
 **Legal Principle Established:**  
-A decree of dissolution of marriage under the Muslim Family Laws Ordinance becomes effective only after the required notice is served to the Chairman and the 90‑day period lapses; a subsequent remarriage before the Iddat period does not invalidate the decree, and a criminal complaint for zina based on such remarriage is not maintainable when the dissolution decree is final.
+A dissolution decree under the Muslim Family Laws Ordinance becomes effective only after notice is served to the Chairman and 90 days have passed; delayed service does not invalidate the decree, and revocation of a talaq can occur after such notice. Criminal liability under the Offence of Zina Ordinance depends on the effective status of the dissolution decree.

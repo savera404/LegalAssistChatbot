@@ -1,0 +1,25 @@
+**Case Name:** Criminal Appeal No.154‑L of 2013 & Criminal Petition No.366‑L of 2013 (Ali Ahmad v. State)  
+**Court:** Supreme Court of Pakistan (Appellate Jurisdiction)  
+**Year:** 2019  
+
+**Legal Issue:**  
+Whether the conviction of Ali Ahmad under section 302(b) of the Pakistan Penal Code (PPC) for “honour killing” was justified when the prosecution failed to establish his guilt beyond reasonable doubt, and whether the defence plea of grave and sudden provocation could be considered in the absence of a prima facie case.
+
+**Relevant Law / Sections:**  
+- Section 302(b) PPC – murder for “honour”  
+- Section 302(c) PPC – murder for “other reasons”  
+- Article 121 of the Qanun‑e‑Shahdat Order, 1984 (QSO) – shifting of burden to the accused after a prima‑facie case is established  
+- General provisions on grave and sudden provocation under the PPC  
+
+**Key Facts (brief):**  
+- Ali Ahmad allegedly murdered his sister Rabia Khalil and her paramour Raheel Arif on 23 April 2006.  
+- Initial conviction under section 302(c) PPC; High Court set aside this conviction and convicted under section 302(b) PPC, sentencing to life imprisonment.  
+- An earlier compromise between the heirs of Rabia Khalil and Ali Ahmad led to the High Court setting aside the conviction for her murder; the conviction for Raheel Arif’s murder remained pending.  
+- The prosecution’s case relied on eyewitness testimony and alleged motive of honour; the defence pleaded grave and sudden provocation.  
+- The Supreme Court found the reliability of eyewitnesses doubtful and concluded that the prosecution failed to establish a prima‑facie case.
+
+**Holding / Decision:**  
+The Supreme Court held that the High Court erred in convicting Ali Ahmad under section 302(b) PPC. Because the prosecution did not prove its case beyond reasonable doubt, the conviction was not justified. The Court reversed the conviction under section 302(b) PPC and remanded the matter for further proceedings (or acquitted the appellant, as the record indicates the conviction was set aside).
+
+**Legal Principle Established:**  
+In criminal proceedings, the prosecution bears the burden of proving the accused’s guilt beyond reasonable doubt. The defence plea of grave and sudden provocation may be considered only after the prosecution has established a prima‑facie case; it cannot be used to convict when the prosecution fails to prove its case. Article 121 of the QSO applies only after a prima‑facie case is made, and the court must appraise the prosecution’s evidence before evaluating the defence.

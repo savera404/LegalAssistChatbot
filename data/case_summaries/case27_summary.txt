@@ -1,27 +1,23 @@
-**Case Name:**  
-Civil Petition No.354‑P of 2025 (Saleh Muhammad and another vs. Mst. Mehnaz Begum and others)
+**Case Name:** Saleh Muhammad and another v. Mst. Mehnaz Begum and others  
+**Court:** Supreme Court of Pakistan (Appellate Jurisdiction)  
+**Year:** 2025  
 
-**Court:**  
-Supreme Court of Pakistan (Appellate Jurisdiction)
+**Legal Issue:** Whether the Supreme Court should grant leave to appeal the High Court’s judgment affirming the respondent’s claim for dower, dowry articles, and maintenance, and whether the petitioner’s repeated allegations that the respondent was not a female and was infertile constitute abuse of the judicial process warranting exemplary costs.  
 
-**Year:**  
-2025
-
-**Legal Issue:**  
-Whether the Supreme Court should grant leave to appeal the Peshawar High Court’s judgment affirming the respondent’s claim for dower, dowry articles, and maintenance, and whether the petitioner’s repeated allegations that the respondent was not a “female” and was infertile constitute a legal error warranting intervention.
-
-**Relevant Law / Sections:**  
-Not specified in the judgment.
+**Relevant Law / Sections:** Not specified.  
 
 **Key Facts (brief):**  
-- Marriage solemnised 2006; petitioner abandoned respondent in 2007 and entered a second marriage in 2009.  
+- Petitioner and respondent married in 2006; petitioner abandoned her in 2007, refused maintenance, and entered a second marriage.  
 - Respondent filed suit in 2015 for dower, dowry, and maintenance.  
-- Petitioner repeatedly alleged respondent was not a female and was infertile, seeking to deny her entitlements.  
-- Trial, District, and High Courts found respondent to be female and allowed her claim.  
-- Petitioner appealed to the Supreme Court, seeking leave to appeal.
+- Petitioner repeatedly alleged that the respondent was not a female and was infertile, seeking to deny her rights.  
+- Trial, District, and High Courts found the respondent to be female, the marriage consummated, and granted her dower, dowry, and maintenance.  
 
 **Holding / Decision:**  
-The Supreme Court dismissed the petition, denied leave to appeal, and imposed exemplary costs of Rs. 500,000 on the petitioner, payable to the respondent.
+- Leave to appeal denied.  
+- Lower courts’ findings affirmed.  
+- Exemplary costs of Rs. 500,000 imposed on the petitioner, payable to the respondent.  
 
 **Legal Principle Established:**  
-The Supreme Court will not disturb concurrent findings of lower courts unless a clear legal error is apparent; frivolous or abusive litigation that humiliates a vulnerable party, particularly a woman, may be sanctioned with exemplary costs to deter such conduct.
+- The Supreme Court will not disturb concurrent findings of lower courts absent clear legal error.  
+- Repeated unfounded allegations attacking a woman’s identity and dignity constitute abuse of process and may justify exemplary costs.  
+- Infertility is not a ground to deny a woman her dower or maintenance.

@@ -1,24 +1,30 @@
-**Case Name:** Abdul Sattar Applicant v. Ms. Kalsom (Respondent)  
-**Court:** Sindh High Court  
-**Year:** 2006  
+**Case Name:**  
+Abdul Sattar (Applicant) v. Mst. Kalsoom (Respondent)
 
-**Legal Issue:** Whether a Family Court must decree dissolution of marriage immediately upon failure of pre‑trial proceedings when the dower (haq‑mahr) is undisputed, and what procedure applies when the dower is disputed or when additional reliefs (custody, maintenance, dowry articles) are sought.  
+**Court:**  
+Sindh High Court
+
+**Year:**  
+2006
+
+**Legal Issue:**  
+Whether a Family Court must decree dissolution of marriage on the ground of Khula when pre‑trial proceedings fail and the dower (Haq Mahr) is undisputed, and what procedural steps are required when the dower is disputed or when other matters (custody, maintenance, dowry articles) are raised.
 
 **Relevant Law / Sections:**  
-- West Pakistan Family Courts Act, 1964 – Sections 5, 7(2) (amended), 10(4) (proviso), 12(a), 17  
-- Muslim Marriages Act, 1939 – Section 2  
-- Islamic Law (Khula)  
-- Qanun‑e‑Shahadat Order, 1984 (non‑applicability)  
-- Code of Civil Procedure, 1908 (non‑applicability)  
+- West Pakistan Family Courts Act, 1964 – Sections 5, 7(2) (amended 2002), 10(4) (proviso), 12(a), 17  
+- Islamic law on Khula and dower  
+- Precedents: Mulkhan Bibi v. Muhammad Wazir Khan (PLD 1959), Muhammad Zafar v. Judge Family Court (2005 CLC 1844)
 
 **Key Facts (brief):**  
-- Respondent filed Family Suit No. 77 of 2005 for dissolution on the ground of Khula.  
+- Respondent filed Family Suit No. 77 of 2005 for dissolution of marriage on the basis of Khula before the 1st Senior Civil Judge, Sukkur.  
+- A transfer application was dismissed; the court was asked to address the dissolution issue under the proviso to Section 10(4).  
 - Pre‑trial proceedings between the parties failed.  
-- The dower issue was not contested; other issues (custody, maintenance, dowry articles) were either not raised or not disputed.  
-- A transfer application was dismissed; the court considered the procedural status of the dissolution suit.  
+- The dower amount was not disputed; no other issues (custody, maintenance, dowry articles) were raised.
 
 **Holding / Decision:**  
-The court held that under the proviso to Section 10(4) of the Family Courts Act, a dissolution decree must be passed immediately when pre‑trial fails and the dower is undisputed. If the dower is disputed, a preliminary decree may be issued only if the wife deposits the dower amount in court; otherwise the matter must be decided after evidence. The court may resolve other contested reliefs (custody, maintenance, dowry articles) after the dissolution decree.  
+The court held that under the proviso to Section 10(4) of the Act, when pre‑trial proceedings fail and the dower is undisputed, the Family Court must immediately decree dissolution of marriage.  
+If the dower is disputed, a preliminary decree may be passed only if the wife deposits the dower in court; otherwise no preliminary decree is allowed and the matter must be decided after evidence.  
+Other contested matters (custody, maintenance, dowry articles) must be resolved after evidence; they do not preclude a preliminary decree when the dower is undisputed.
 
 **Legal Principle Established:**  
-In Muslim dissolution suits, a Family Court may issue a preliminary decree of dissolution upon failure of pre‑trial proceedings when the dower is undisputed; disputed dower requires deposit or evidence before a preliminary decree, and other reliefs can be decided subsequent to dissolution.
+In Muslim dissolution suits, the Family Court is bound to decree dissolution on the ground of Khula immediately when pre‑trial fails and dower is undisputed; a preliminary decree is permissible only upon deposit of disputed dower, and other contested issues must be adjudicated after evidence. Khula is premised solely on remission or return of dower, not on return of gifts or other property.

@@ -13,12 +13,17 @@ from langchain_community.vectorstores import FAISS
 # -------------------------------
 # PATHS
 # -------------------------------
-# DATA_PATH = r"D:\LegalAssist_chatbot\data\laws"
-DATA_PATH = r"D:\LegalAssist_chatbot\data\case_summaries"
-DB_FAISS_PATH = r"D:\LegalAssist_chatbot\vectorstore\faiss_store"
-PROCESSED_FILE = r"D:\LegalAssist_chatbot\processed_files.txt"
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DATA_PATH = os.path.join(BASE_DIR, "data", "laws")
+# DATA_PATH = r"D:\LegalAssist_chatbot\data\case_summaries"
+# DB_FAISS_PATH = r"D:\LegalAssist_chatbot\vectorstore\faiss_store"
+# PROCESSED_FILE = r"D:\LegalAssist_chatbot\processed_files.txt"
 
 
+
+# DATA_PATH = os.path.join(BASE_DIR, "data", "case_summaries")
+DB_FAISS_PATH = os.path.join(BASE_DIR, "vectorstore", "faiss_store")
+PROCESSED_FILE = os.path.join(BASE_DIR, "processed_files.txt")
 # -------------------------------
 # LOAD EXISTING PROCESSED FILES
 # -------------------------------
@@ -32,31 +37,11 @@ else:
 # # -------------------------------
 # # LOAD ONLY NEW PDFs
 # # -------------------------------
-# def load_new_pdfs(data_path):
-#     loader = DirectoryLoader(
-#         data_path,
-#         glob="**/*.pdf",        # recursive
-#         loader_cls=PyPDFLoader
-#     )
-#     documents = loader.load()
-
-#     new_documents = []
-#     for doc in documents:
-#         source = doc.metadata.get("source")
-#         if source not in processed_files:
-#             new_documents.append(doc)
-
-#     return new_documents
-
-# -------------------------------
-# LOAD ONLY NEW TXT FILES
-# -------------------------------
-def load_new_txts(data_path):
+def load_new_pdfs(data_path):
     loader = DirectoryLoader(
         data_path,
-        glob="**/*.txt",
-        loader_cls=TextLoader,
-        loader_kwargs={"encoding": "utf-8"}
+        glob="**/*.pdf",        # recursive
+        loader_cls=PyPDFLoader
     )
     documents = loader.load()
 
@@ -67,6 +52,26 @@ def load_new_txts(data_path):
             new_documents.append(doc)
 
     return new_documents
+
+# -------------------------------
+# LOAD ONLY NEW TXT FILES
+# -------------------------------
+# def load_new_txts(data_path):
+#     loader = DirectoryLoader(
+#         data_path,
+#         glob="**/*.txt",
+#         loader_cls=TextLoader,
+#         loader_kwargs={"encoding": "utf-8"}
+#     )
+#     documents = loader.load()
+
+#     new_documents = []
+#     for doc in documents:
+#         source = doc.metadata.get("source")
+#         if source not in processed_files:
+#             new_documents.append(doc)
+
+#     return new_documents
 
 
 # -------------------------------
@@ -91,7 +96,8 @@ embedding_model = HuggingFaceEmbeddings(
 # -------------------------------
 # LOAD NEW DOCUMENTS (change the function name accroding to pdf or text)
 # -------------------------------
-new_documents = load_new_txts(DATA_PATH)
+# new_documents = load_new_txts(DATA_PATH)
+new_documents = load_new_pdfs(DATA_PATH)
 print("📄 New pages found:", len(new_documents))
 
 if not new_documents:

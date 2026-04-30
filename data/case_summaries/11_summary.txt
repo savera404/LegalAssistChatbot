@@ -1,0 +1,24 @@
+**Case Name:** Khuda‑e‑Noor v. The State  
+**Court:** Supreme Court of Pakistan (Appellate Jurisdiction)  
+**Year:** 2015  
+
+**Legal Issue:**  
+Whether the Sessions Judge was justified in classifying the murder of Mst. Samreen as an honour‑killing and transferring the case to an Anti‑Terrorism Court under section 6(2)(g) of the Anti‑Terrorism Act, 1997, and whether the High Court’s dismissal of the revision petition was legally correct.  
+
+**Relevant Law / Sections:**  
+- Section 302, Pakistan Penal Code (PPC) – Murder  
+- Section 34, PPC – Murder with a special circumstance (honour killing)  
+- Section 6(1)(b) & (c), Anti‑Terrorism Act, 1997 – Mens rea (design/purpose) for terrorism  
+- Section 6(2)(g), Anti‑Terrorism Act, 1997 – Acts that, if accompanied by mens rea, constitute terrorism  
+
+**Key Facts (brief):**  
+- FIR No. 19 registered 16 June 2014 at Le Vies Station Dasht, District Mastung.  
+- Accused Khuda‑e‑Noor and co‑accused allegedly murdered Mst. Samreen, the appellant’s sister, purportedly for honour‑killing reasons.  
+- Sessions Judge transferred the case to an Anti‑Terrorism Court citing section 6(2)(g).  
+- High Court dismissed the appellant’s revision petition.  
+
+**Holding / Decision:**  
+The Supreme Court held that the case did not satisfy the mens rea required for terrorism under section 6(1)(b)/(c) of the Anti‑Terrorism Act, 1997; therefore, the transfer to an Anti‑Terrorism Court was unjustified. The High Court’s dismissal of the revision petition was also incorrect. The orders of the Sessions Judge and the High Court were set aside, and the case was declared to be tried by a court of ordinary jurisdiction.  
+
+**Legal Principle Established:**  
+Section 6(2)(g) of the Anti‑Terrorism Act, 1997 applies only when the act is accompanied by the design or purpose specified in section 6(1)(b) or (c). An honour‑killing lacking such mens rea does not constitute terrorism and falls outside the exclusive jurisdiction of an Anti‑Terrorism Court.

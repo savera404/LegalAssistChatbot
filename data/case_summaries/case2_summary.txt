@@ -1,0 +1,29 @@
+**Case Name:**  
+Shabbir Ahmad v. The State etc.  
+
+**Court:**  
+Lahore High Court, Lahore  
+
+**Year:**  
+2015  
+
+**Legal Issue:**  
+Whether the appellant can be convicted under Section 7(c) of the Anti‑Terrorism Act, 1997 (ATA 1997) for an act that occurred before the offence was scheduled under that Act.  
+
+**Relevant Law / Sections:**  
+- Section 324, 337‑A(i), 337‑F(i) of the Pakistan Penal Code (PPC)  
+- Section 7(c) of the Anti‑Terrorism Act, 1997 (ATA 1997)  
+- Section 38 of the ATA 1997  
+- Section 382‑B of the Criminal Procedure Code (Cr.P.C.)  
+
+**Key Facts (brief):**  
+- On 9 Oct 2009, the appellant, Shabbir Ahmad, allegedly poured acid on Goshi Bibi, causing severe burns and the loss of an ear.  
+- The offence was registered under FIR No. 991 on 16 Oct 2009.  
+- The trial court convicted the appellant under Sections 324, 337‑A(i), 337‑F(i) of the PPC and under Section 7(c) of the ATA 1997, sentencing him to imprisonment and fines.  
+- The appellant appealed, arguing that Section 7(c) was not in force at the time of the offence.  
+
+**Holding / Decision:**  
+The Lahore High Court held that the conviction under Section 7(c) of the ATA 1997 is invalid because the offence was committed before the offence was scheduled under that Act. Consequently, the conviction under Section 7(c) was set aside. The court did not alter the convictions under the PPC sections.  
+
+**Legal Principle Established:**  
+An offence committed before it is scheduled under an Act cannot be prosecuted under that Act; the punishment must be as prescribed by the law in force at the time of commission (Section 38 ATA 1997). The court must apply the law applicable at the time the offence occurred.

@@ -7,9 +7,15 @@ from dotenv import load_dotenv
 load_dotenv()
 api_key=os.getenv('GROQ_API_KEY')
 
-INPUT_DIR = r"D:\LegalAssist_chatbot\data\cases"
-OUTPUT_DIR = r'D:\LegalAssist_chatbot\data\case_summaries'
-PROCESSED_FILE = r'data\processed_cases.txt'
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+INPUT_DIR = os.path.join(BASE_DIR, "data", "cases")
+OUTPUT_DIR = os.path.join(BASE_DIR, "data", "case_summaries")
+PROCESSED_FILE = os.path.join(BASE_DIR, "data", "processed_cases.txt")
+
+# INPUT_DIR = r"D:\LegalAssist_chatbot\data\cases"
+# OUTPUT_DIR = r'D:\LegalAssist_chatbot\data\case_summaries'
+# PROCESSED_FILE = r'data\processed_cases.txt'
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 os.makedirs("data", exist_ok=True)

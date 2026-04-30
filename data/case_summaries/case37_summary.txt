@@ -1,26 +1,28 @@
 **Case Name:**  
-Muhammad Naseem et al. v. Asghar Ali Tabassum  
+Muhammad Naseem et al. Versus Asghar Ali Tabassum  
 
 **Court:**  
-Lahore High Court  
+Lahore High Court, Lahore Judicial Department  
 
 **Year:**  
 2025  
 
 **Legal Issue:**  
-Whether the oral gifts/mutations made by the deceased Bashir Ahmed to the respondent, which excluded other heirs, are void under the principle of *zarar* (harm) and Islamic inheritance law.  
+Whether the oral gifts (mutations) made by the deceased Bashir Ahmed to his son Asghar Ali Tabassum are void under the doctrine of *zarar* (harm) and Islamic principles, and whether the petitioners can challenge them.  
 
 **Relevant Law / Sections:**  
 Not specified.  
 
 **Key Facts (brief):**  
 - Deceased Bashir Ahmed died 13 Apr 2016.  
-- Four property mutations (Nos. 1276, 1502, 1437, 1532) were executed during his lifetime, bearing his thumb impressions, photograph, and witnesses’ attestations.  
-- Petitioners are other children of Bashir Ahmed who allege the gifts were fraudulent and intended to deprive them.  
-- Respondent was living with the father and provided care; petitioners had severed ties and were involved in litigation against the father.  
+- Four property mutations (Nos. 1276, 1502, 1437, 1532) dated 2012–2014 transferred land and a house to various heirs.  
+- Mutations were based on oral gifts, bearing the deceased’s thumb impression and photograph, and attested by witnesses.  
+- Respondent (Asghar Ali Tabassum) was a son from the second wife; petitioners are other children from both wives.  
+- Petitioners claim the gifts were fraudulent and made to deprive them, invoking the *Liaqat Ali v. Shahnaz Akhtar* precedent.  
+- Trial and appellate courts dismissed the petition; the present petition seeks to set aside the gifts.  
 
 **Holding / Decision:**  
-The petition was dismissed; the court upheld the validity of the oral gifts/mutations.  
+The Lahore High Court dismissed the petition, upholding the validity of the oral gifts and the mutations.  
 
 **Legal Principle Established:**  
-A father may lawfully dispose of property to a child who has earned his trust and affection, and such a gift is not void under the principle of *zarar* even if other heirs are excluded, provided there is no evidence of malice or fraud.
+A father may lawfully dispose of his property to a child who has earned his trust and affection; such a gift is not void under *zarar* or Islamic law absent evidence of malice or bias. The applicability of the *Liaqat Ali* precedent depends on factual similarity and cannot be applied automatically.

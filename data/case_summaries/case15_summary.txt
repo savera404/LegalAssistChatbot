@@ -2,21 +2,23 @@
 **Court:** Lahore High Court  
 **Year:** 2008  
 
-**Legal Issue:** Whether a suit for recovery of dowry articles filed before the amendment to the West Pakistan Family Courts Act, 1964, is competent under the amended schedule and jurisdictional provisions.  
+**Legal Issue:**  
+Whether the Family Court at Lahore had jurisdiction to entertain a suit for recovery of dowry articles filed by respondent No. 2 on 26‑10‑2001, before the amendment that added “dowry” to the schedule of the West Pakistan Family Courts Act, 1964.  
 
 **Relevant Law / Sections:**  
-- West Pakistan Family Courts Act (XXXV of 1964) – Sections 5, 7(2) and the Schedule  
-- Constitution of Pakistan (1973) – Article 199 (Interpretation of Statutes)  
-- West Pakistan Family Court Rules, 1965 – Rules 5 and 6  
+- West Pakistan Family Courts Act, 1964 – Sections 5, 7(2) and the Schedule  
+- West Pakistan Family Court Rules, 1965 – Rules 5 and 6  
+- Amendment Act VII of 1997 to the Act (incorporating “dowry” into the schedule)  
+- Constitution of Pakistan, Article 199 (interpretation of statutes)  
 
 **Key Facts (brief):**  
-- Petition filed on 26 Oct 2001 for recovery of dowry articles worth Rs. 6,99,075.  
-- The suit was filed before the amendment (1 Oct 2002) that added “dowry” to the schedule of Section 5.  
-- Respondent resides in Lahore; petitioner resides in Gojra.  
-- The Family Court at Lahore had earlier found no jurisdiction; the appellate court reversed and remanded.  
+1. Respondent No. 2 filed a suit for recovery of dowry articles on 26‑10‑2001 in the Family Court at Lahore.  
+2. The suit was filed before the amendment that added “dowry” to the schedule of the Act.  
+3. The Family Court initially found no jurisdiction; the appellate court reversed that finding and remanded the case for further determination.  
+4. The petitioner challenged the appellate court’s decision, arguing the suit was not competent because it was filed before the amendment.  
 
 **Holding / Decision:**  
-The Lahore High Court dismissed the writ petition, held that the amendment to the Act incorporated dowry into the jurisdiction of Family Courts, thereby validating the suit filed before the amendment, and directed the Family Court to decide the case on its merits.  
+The Lahore High Court dismissed the petition, affirming that the suit was within the jurisdiction of the Family Court at Lahore. The court held that the amendment to the schedule of the Act, which added “dowry” as a subject, applied to suits filed before the amendment, and that the ordinary residence of the wife (Lahore) determined territorial jurisdiction, not the location of the dowry articles.  
 
 **Legal Principle Established:**  
-An amendment that incorporates a new subject (dowry) into the schedule of the Family Courts Act retroactively validates suits filed prior to the amendment, provided the amendment is not retrospective; the jurisdiction of the Family Court is determined by the ordinary residence of the wife in accordance with the amended provisions.
+Amendments to the schedule of the West Pakistan Family Courts Act, 1964, which add new subject matters, apply to suits filed before the amendment, and the ordinary residence of the wife governs the territorial jurisdiction of the Family Court, irrespective of the location of the dowry articles.

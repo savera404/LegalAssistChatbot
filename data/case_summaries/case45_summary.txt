@@ -1,0 +1,24 @@
+**Case Name:** Shabbir Ahmad v. The State etc.  
+**Court:** Lahore High Court, Lahore Judicial Department  
+**Year:** 2015 (hearing held 11‑02‑2015)  
+
+**Legal Issue:** Whether the conviction of the appellant under section 7(c) of the Anti‑Terrorism Act, 1997 (ATA 1997) is valid when the alleged offence (acid attack) occurred before the offence was scheduled under that Act.  
+
+**Relevant Law / Sections:**  
+- Section 324, Penal Code (PPC)  
+- Section 337‑A(i), PPC  
+- Section 337‑F(i), PPC  
+- Section 7(c), ATA 1997  
+- Section 38, ATA 1997  
+- Section 382 B, Cr.P.C. (concurrent sentences)  
+
+**Key Facts (brief):**  
+- The appellant, Shabbir Ahmad, was accused of forcibly taking household items and assaulting Goshi Bibi with acid on 9 October 2009, causing severe burns and loss of an ear.  
+- The offence was registered as an FIR on 16 October 2009.  
+- The trial court convicted the appellant under the above PPC sections and under section 7(c) ATA 1997, sentencing him to ten years imprisonment, life imprisonment, and additional terms, with all sentences to run concurrently under section 382 B Cr.P.C.  
+- Co‑accused were acquitted.  
+
+**Holding / Decision:** Not specified.  
+
+**Legal Principle Established:**  
+The court noted that the acid‑attack offence occurred before it was scheduled under ATA 1997 (the offence was added to the third schedule on 5 September 2012). Consequently, section 7(c) ATA 1997 does not apply to the offence; under section 38 ATA, a person who commits an offence before the Act comes into force may be tried under the Act but is liable to punishment as authorized by the law in force at the time the offence was committed. This underscores the principle of non‑retroactivity of criminal law.

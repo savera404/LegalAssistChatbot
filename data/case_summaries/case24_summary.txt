@@ -8,32 +8,23 @@ Lahore High Court
 1997
 
 **Legal Issue:**  
-Whether the petitioners are owners in possession of the disputed land and whether the orders, mutations and decrees issued by the Settlement Commissioner and civil courts are void, illegal or ineffective; and whether adverse possession and special costs apply.
+Whether the petitioners are owners in possession of the disputed land and whether the mutations and decrees affecting the title are valid; related issues of adverse possession, special costs, and estoppel.
 
 **Relevant Law / Sections:**  
-- Civil Procedure Code (1908), S.12(2)  
-- West Pakistan Rehabilitation and Settlement Scheme, 1956, paras. 46, 46‑A, 67  
-- West Pakistan Land Revenue Act (XVII of 1967), S.42  
-- Qanun‑e‑Shahadat (10 of 1984), Articles 64, 71, 88, 101, 119  
-- Transfer of Property Act, Section 41  
-- Civil Procedure Code, Section 35‑A (special costs)
+- Civil Procedure Code (1908) s.12(2)  
+- West Pakistan Rehabilitation and Settlement Scheme, 1956 – paras. 46, 46‑A, 67  
+- West Pakistan Land Revenue Act (XVII of 1967) – s.42  
+- Qanun‑e‑Shahadat (10 of 1984) – Articles 64, 71, 88, 101, 119
 
 **Key Facts (brief):**  
-- Disputed land: 2143 Kanals and 9 Marlas in Mauza Kakki Nau Chak, Tehsil Shorkot, District Jhang.  
-- Petitioners claim ownership as heirs of Mst. Badar‑un‑Nisa (deceased 1947/1952‑53).  
-- Respondents claim inheritance rights and challenge the petitioners’ title.  
-- Multiple mutations (Nos. 1106, 1115, 976, 1133) and decrees (3‑12‑1981, 14‑12‑1982) were issued in favour of respondents.  
-- Trial court held petitioners owners; appellate court reversed and decreed in favour of respondents.  
-- Revision petition filed in Lahore High Court in 1997.
+- Petitioners claimed ownership of 2143 Kanals land in Jhang as heirs of Mst. Badar‑un‑Nisa (deceased 1947/1952).  
+- Respondents challenged the petitioners’ title, contesting mutations (Nos. 1106, 1115, 976, 1133) and civil‑court decrees (1981, 1982).  
+- Petitioners alleged fraud and misrepresentation in the creation of those instruments.  
+- Trial court held petitioners were owners; appellate court reversed that finding, concluding petitioners had no legitimate relation to the deceased and were not entitled to inheritance.  
+- Revision petition was filed in the Lahore High Court.
 
 **Holding / Decision:**  
-- The Lahore High Court held that the petitioners are owners in possession of the land.  
-- The orders, mutations and decrees challenged were found to be void or ineffective on the petitioners’ rights.  
-- Mst. Jameela Khatoon did not acquire title by adverse possession.  
-- Special costs of Rs. 5,000 were awarded to respondents Nos. 3, 5, 10 and 12.  
-- The petitioners’ suit was not time‑barred and was maintainable in its present form.
+The Lahore High Court reversed the appellate court’s findings on Issues 1, 2 and 15, holding that the petitioners were not owners of the land. It also reversed the special‑costs findings, ruling that the respondents were entitled to the title. The petitioners’ claims were dismissed.
 
 **Legal Principle Established:**  
-- Mutations and decrees issued under the West Pakistan Rehabilitation and Settlement Scheme and related statutes may be challenged in civil court; their validity is subject to judicial scrutiny.  
-- Adverse possession requires continuous possession for a period of at least 12 years; mere possession without such continuity does not confer title.  
-- Special costs under Section 35‑A of the CPC may be imposed where the court finds the suit to be frivolous or the respondents’ conduct warrants it.
+A court may set aside earlier mutations and decrees if evidence shows the parties claiming inheritance lack a legitimate relationship to the deceased; inheritance rights are not conferred by mere association. Special costs may be awarded against parties who are not entitled to title.

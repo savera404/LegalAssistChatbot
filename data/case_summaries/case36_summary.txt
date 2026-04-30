@@ -5,25 +5,25 @@ Ehsan‑ul‑Haq and others v. Muhammad Nawaz and others
 Supreme Court of Pakistan (Appellate Jurisdiction)  
 
 **Year:**  
-2025 (judgment delivered 20 Feb 2025)  
+2025  
 
 **Legal Issue:**  
-Whether the appellants, as legal heirs of Muhammad Yousaf, are entitled to a half‑share in the property that was mutated to Mst. Ghulam Zohra under a will that contained a condition of limited ownership.  
+Whether a condition limiting the ownership of a property in a will is void, and consequently whether the legal heirs of the nephew of the original owner are entitled to a share in the property.  
 
 **Relevant Law / Sections:**  
-- Muslim Personal Law (Shariat) Application Act, 1962 – Section 2‑A (recognition of male heirs of customary land as absolute owners)  
-- Islamic inheritance principles (rule of one‑third in testamentary disposition)  
-- Customary law applicable before the Shariat Application Act, 1948  
+- Muslim Personal Law (Shariat) Application Act, 1962 – Section 2‑A (recognition of male heirs inheriting under customary law before 15 March 1948 as absolute owners).  
+- Islamic inheritance principles (one‑third rule for testamentary dispositions).  
+- Customary law as applied to ancestral property (not to acquired land).  
 
 **Key Facts (brief):**  
-1. Kala Khan owned land in Jhelum; died 1934.  
-2. Property was mutated to his daughter, Mst. Ghulam Zohra, by will (mutations 2482 & 83 8).  
-3. Will contained a condition that she would be a limited owner until death.  
-4. Mst. Ghulam Zohra died 1988; she had transferred portions of the land to respondents.  
-5. Appellants claim that, as heirs of Muhammad Yousaf (last surviving male of Kala Khan), they are entitled to half the property.  
+1. Kala Khan owned land in Jhelum; died 1934.  
+2. His will left the land to his wife Mst. Jewani and daughter Mst. Ghulam Zohra, with a condition that she be a limited owner until death.  
+3. Mst. Ghulam Zohra died 1988; the property was mutated in favour of her husband and children.  
+4. The appellants are legal heirs of Muhammad Yousaf (Kala Khan’s nephew). They claim that, after Mst. Ghulam Zohra’s death, half the property should devolve to them.  
+5. Trial court granted the claim; appellate court dismissed it; the Supreme Court is hearing the appeal.  
 
 **Holding / Decision:**  
-The Supreme Court held that the condition of limited ownership in the will was void under Islamic inheritance law; consequently, Mst. Ghulam Zohra became the absolute owner of the property. Upon her death, the property devolved to her legal heirs (the respondents), not to the appellants.  
+The Supreme Court held that the condition of limited ownership in the will was void under Islamic inheritance law; Mst. Ghulam Zohra became the absolute owner of the property. Upon her death, the property devolved to her legal heirs, not to the appellants.  
 
 **Legal Principle Established:**  
-A condition in a Muslim will that limits ownership to a life‑interest is void; the property transferred by such a will becomes absolute ownership. Male heirs who acquired customary land before 15 March 1948 are recognized as absolute owners under Islamic law, and the one‑third rule governs testamentary dispositions.
+A condition that limits a beneficiary’s ownership in a will is void if it conflicts with the one‑third rule of Islamic inheritance; customary law does not apply to land acquired during the owner’s lifetime, and male heirs who inherited under customary law before 1948 are recognized as absolute owners under Islamic law.

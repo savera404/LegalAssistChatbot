@@ -1,5 +1,5 @@
 **Case Name:**  
-Mst. Gaman v. Taj Din  
+MST. GAMAN — PETITIONER v. TAJ DIN — RESPONDENT  
 
 **Court:**  
 Lahore High Court  
@@ -8,23 +8,21 @@ Lahore High Court
 1968  
 
 **Legal Issue:**  
-Whether the Lahore High Court has jurisdiction to transfer a suit pending in one Family Court to another Family Court.  
+Whether the Lahore High Court has jurisdiction to order the transfer of a suit pending in one Family Court (Lahore) to another Family Court (Vehari).  
 
 **Relevant Law / Sections:**  
-- Article 102 of the Constitution of Pakistan (1962)  
-- West Pakistan Family Courts Act (XXXV of 1964) – Sections 3, 14, 17, 24, 151  
-- Constitution of Pakistan (1962) – Articles 102, 242  
-- Muslim Family Laws Ordinance (1961)  
-- Conciliation Courts Ordinance (1961)  
+- Constitution of Pakistan, 1962 – Article 102 (superintendence of subordinate courts)  
+- West Pakistan Family Courts Act, 1964 – Sections 3, 14, 17, 24, 25, 151 (exclusive jurisdiction, transfer, and procedural rules)  
+- Code of Civil Procedure – Sections 24, 151 (application for transfer)  
 
 **Key Facts (brief):**  
-1. Petitioner filed a dissolution‑of‑marriage suit in the Family Court at Vehari (April 1967).  
-2. Respondent filed a restitution‑of‑conjugal‑rights suit in the Family Court at Lahore (≈ 8 days later).  
-3. Petitioner applied to the Lahore High Court (June 1967) under Sections 24 and 151 CPC and Article 102 to transfer the respondent’s suit to Vehari.  
-4. Respondent had no objection to the transfer but argued the High Court lacked jurisdiction to transfer between subordinate courts.  
+1. Petitioner filed a suit for dissolution of marriage in the Family Court at Vehari (District Multan).  
+2. Respondent filed a suit for restitution of conjugal rights in the Family Court of Lahore.  
+3. Petitioner applied to the Lahore High Court under Sections 24 and 151 of the CPC and Article 102 of the Constitution to transfer the respondent’s suit to the Family Court at Vehari, where her dissolution suit was pending.  
+4. Respondent had no objection to the transfer but argued that the High Court lacked jurisdiction to transfer a suit between subordinate Family Courts.  
 
 **Holding / Decision:**  
-The Lahore High Court held that, under Article 102, it possesses supervisory jurisdiction over subordinate courts and may direct the transfer of suits between them. Consequently, the Court exercised its power to transfer the respondent’s suit from Lahore to Vehari.  
+The Lahore High Court held that, under Article 102 of the Constitution, it possesses supervisory jurisdiction over all subordinate courts and may direct the transfer of any suit from one subordinate court to another. Consequently, the Court granted the petition and transferred the respondent’s suit to the Family Court at Vehari.  
 
 **Legal Principle Established:**  
-A High Court’s superintendence under Article 102 includes the authority to transfer cases pending in subordinate courts to another subordinate court.
+A High Court, pursuant to Article 102 of the Constitution of Pakistan, has the authority to supervise subordinate courts and to direct the transfer of suits between such courts.

@@ -3,7 +3,8 @@ from langchain_community.document_loaders import PyPDFLoader
 from collections import defaultdict
 
 
-DATA_PATH = r"D:\LegalAssist_chatbot\data\cases"
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DATA_PATH = os.path.join(BASE_DIR, "data", "cases")
 MIN_TEXT_LENGTH = 200   # threshold
 
 
